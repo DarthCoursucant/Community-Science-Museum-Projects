@@ -58,7 +58,7 @@ main.page-body {
   }
   
   .menubar a:hover {
-    color: #f1f1f1;
+    color: #000000;
   }
   
   .menubar {
@@ -83,7 +83,7 @@ main.page-body {
 }
 
 .header-museum-name {
-   margin-left: 500px;
+   margin-left: 550px;
 }
 
 /*  END HEADER CODE */
