@@ -1,4 +1,3 @@
-  /*Menu Bar Code*/
   function openNav() {
     console.log("Opening the nav");
     document.getElementById("mymenu").style.width = "100%";
