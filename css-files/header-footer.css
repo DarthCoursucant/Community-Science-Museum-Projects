@@ -76,6 +76,18 @@ main.page-body {
 
 /* END MENU CODE */
 
+/* HEADER CODE */
+.header-museum-name img {
+    width: 400px;
+    height: 200px;
+}
+
+.header-museum-name {
+   margin-left: 500px;
+}
+
+/*  END HEADER CODE */
+
 /* FOOTER CODE */
 .page-footer, #footer-icons {
     display: flex;
