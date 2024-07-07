@@ -87,13 +87,17 @@ main.page-body {
 
 .header-museum-name {
    margin-left: 580px;
-   margin-top: 0px;
-   border: 2px solid red;
    width: 300px;
 }
 
 .flex-menu {
-    margin-top: 20px;
+    margin-top: 45px;
+    margin-left: 50px;
+}
+
+.flex-menu img {
+    width: 65px;
+    height: 65px;
 }
 
 /*  END HEADER CODE */
