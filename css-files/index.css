@@ -34,3 +34,46 @@
     text-decoration: none;
     color: red;
 }
+
+.specifc-file-option-one, .specifc-file-option-two, .specifc-file-option-three, .specifc-file-option-four, .specifc-file-option-five, .specifc-file-option-six, .specifc-file-option-seven, .specifc-file-option-eight, .specifc-file-option-nine {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+
+.specifc-file-option-seven {
+    display: flex;
+    margin-left: 250px;
+    margin-top: -200px;
+}
+
+.specifc-file-option-six {
+    margin-bottom: 250px;
+}
+
+#specifc-file-image img {
+    height: 350px;
+    width: 650px;
+    border-radius: 20px;
+    border: 2px solid snow;
+}
+
+.specifc-file-text {
+    background-color: #f09ea7;
+    height: 350px;
+    width: 650px;
+    border-radius: 20px;
+    border: 2px solid snow;
+}
+
+#specifc-file-header h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #000000;
+}
+
+#specific-file-info {
+    text-align: center;
+    font-size: 17px;
+    color: #000000;
+}
