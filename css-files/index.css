@@ -58,12 +58,19 @@
     border: 2px solid snow;
 }
 
-.specifc-file-text {
-    background-color: #f09ea7;
+.specifc-file-text, .specifc-file-text-one {
     height: 350px;
     width: 700px;
     border-radius: 20px;
     border: 2px solid snow;
+}
+
+.specifc-file-text {
+    background-color: #f09ea7;
+}
+
+.specifc-file-text-one {
+    background-color: #c4faf8;
 }
 
 #specifc-file-header h1 {
