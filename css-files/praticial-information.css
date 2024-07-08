@@ -1,0 +1,33 @@
+.pratical-information-info-box {
+    display: flex;
+}
+
+.image-info-box img {
+    width: 800px;
+    height: 500px;
+}
+
+.text-info-box {
+    color: #000000;
+    text-align: center;
+    width: 700px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.text-info-box h1 {
+    font-size: 35px;
+}
+
+.text-info-box p {
+    font-size: 20px;
+}
+
+#phone-number {
+    text-decoration: underline;
+}
+
+.text-info-box a {
+    text-decoration: underline;
+    color: #000000;
+}
