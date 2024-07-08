@@ -39,7 +39,7 @@
     color: red;
 }
 
-.specifc-file-option-one, .specifc-file-option-two, .specifc-file-option-three, .specifc-file-option-four, .specifc-file-option-five, .specifc-file-option-six, .specifc-file-option-seven, .specifc-file-option-eight, .specifc-file-option-nine {
+.specifc-file-option-one, .specifc-file-option-two, .specifc-file-option-three, .specifc-file-option-four, .specifc-file-option-five, .specifc-file-option-six, .specifc-file-option-seven, .specifc-file-option-eight {
     display: flex;
     margin-top: 50px;
     margin-left: 50px;
@@ -50,6 +50,10 @@
     width: 700px;
     border-radius: 20px;
     border: 2px solid snow;
+}
+
+.specifc-file-option-eight {
+    margin-bottom: 50px;
 }
 
 .specifc-file-text, .specifc-file-text-one {
