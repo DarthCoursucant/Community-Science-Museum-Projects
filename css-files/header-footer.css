@@ -133,11 +133,11 @@ main.page-body {
     display: flex;
 }
 
-#footer-option-one {
+#footer-option-one, #footer-option-three {
     width: 500px;
 }
 
-#footer-option-two, #footer-option-three, #footer-option-four {
+#footer-option-two, #footer-option-four {
     width: 400px;
 }
 
@@ -197,6 +197,16 @@ main.page-body {
 
 #monday-footer-option {
     text-decoration: line-through;
+}
+
+#footer-option-three h1 {
+    margin-left: 130px;
+}
+
+#footer-option-three h2 {
+    font-size: 25px;
+    color: #000000;
+    margin-left: 70px;
 }
 
 /* END FOOTER CODE */
