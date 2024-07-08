@@ -100,8 +100,12 @@ main.page-body {
     height: 65px;
 }
 
+.flex-menu {
+    display: none;
+}
+
 #exhibitions-button-header {
-    margin-left: 440px;
+    margin-left: 550px;
 }
 
 .button-header {
