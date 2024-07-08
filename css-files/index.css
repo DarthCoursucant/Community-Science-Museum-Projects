@@ -8,4 +8,29 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    height: 250px;
+}
+
+.hero-text {
+    color: #ffffff;
+    text-align: center;
+}
+
+.hero-text h1 {
+    font-size: 45px;
+    padding-top: 30px;
+}
+
+.hero-image-button {
+    background-color: #c1eabc;
+    width: 530px;
+    border-radius: 20px;
+    border: 2px solid snow;
+    margin-left: 500px;
+    margin-top: 40px;
+}
+
+.hero-image-button a {
+    text-decoration: none;
+    color: red;
 }
