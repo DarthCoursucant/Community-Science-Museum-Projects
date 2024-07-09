@@ -49,11 +49,11 @@
     font-size: 15px;
 }
   
-.active, .collapsible:hover {
+.active, .unfold-question-thing:hover {
     background-color: #555;
 }
   
-.content {
+.unfold-question-thing-content-text {
     padding: 0 18px;
     display: none;
     overflow: hidden;
