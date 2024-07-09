@@ -1,0 +1,22 @@
+.for-kids-explore, .for-teachers-explore, .for-reasearchers-explore {
+    width: 1200px;
+    border-radius: 20px;
+    border: 2px solid #ffffff;
+    color: #000000;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 160px;
+}
+
+.for-kids-explore {
+    background-color: cadetblue;
+}
+
+.for-teachers-explore {
+    background-color: brown;
+}
+
+.for-reasearchers-explore {
+    background-color: darkgreen;
+    margin-bottom: 30px;
+}
