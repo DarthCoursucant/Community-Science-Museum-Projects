@@ -38,8 +38,8 @@
 }
 
 .unfold-question-thing {
-    background-color: #777;
-    color: white;
+    background-color: #c1eabc;
+    color: #000000;
     cursor: pointer;
     padding: 18px;
     width: 100%;
@@ -50,7 +50,7 @@
 }
   
 .active, .unfold-question-thing:hover {
-    background-color: #555;
+    background-color: #FFA6C1;
 }
   
 .unfold-question-thing-content-text {
