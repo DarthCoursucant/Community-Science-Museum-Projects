@@ -22,12 +22,16 @@
     margin-bottom: 30px;
 }
 
-#explore-text-box h1 {
+.explore-text-box h1 {
     font-size: 35px;
 }
 
-#explore-text-box p {
+.explore-text-box p {
     font-size: 20px;
+}
+
+.explore-text-box {
+    padding: 0px 20px 0px 20px;
 }
 
 .explore-photo img {
@@ -37,4 +41,8 @@
 
 .for-kids-explore img {
     float: left;
+}
+
+.for-teachers-explore img {
+    float: right;
 }
