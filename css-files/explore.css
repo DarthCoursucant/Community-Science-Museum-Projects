@@ -6,6 +6,7 @@
     text-align: center;
     margin-top: 30px;
     margin-left: 160px;
+    height: 500px;
 }
 
 .for-kids-explore {
@@ -27,4 +28,13 @@
 
 #explore-text-box p {
     font-size: 20px;
+}
+
+.explore-photo img {
+    width: 300px;
+    height: 450px;
+}
+
+.for-kids-explore img {
+    float: left;
 }
