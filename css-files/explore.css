@@ -20,3 +20,11 @@
     background-color: darkgreen;
     margin-bottom: 30px;
 }
+
+#explore-text-box h1 {
+    font-size: 35px;
+}
+
+#explore-text-box p {
+    font-size: 20px;
+}
