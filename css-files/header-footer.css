@@ -178,19 +178,23 @@ main.page-body {
 }
 
 #partnerships-footer {
-    margin-left: 100px;
+    margin-left: 85px;
 }
 
 #contact-footer {
-    margin-left: 110px;
+    margin-left: 95px;
 }
 
 #about-fotter {
-    margin-left: 115px;
+    margin-left: 100px;
+}
+
+#explore-footer {
+    margin-left: 70px;
 }
 
 #practical-information-fotter {
-    margin-left: 70px;
+    margin-left: 60px;
 }
 
 #footer-option-two h1 {
