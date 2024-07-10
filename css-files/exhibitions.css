@@ -1,17 +1,33 @@
 .exhibitions-one, .exhibitions-two, .exhibitions-three, .exhibition-four, .exhibitions-five, .exhibtions-six, .exhibtions-seven, .exhibtions-eight, .exhibitions-nine, .exhibitions-teen, .exhibition-eleven, .exhibition-twelve, .exhibition-thirten, .exhibition-fourteen, .exhibition-fifteen, .exhibition-sixteen, .exhibition-seventeen, .exhibition-eighteen, .exhibition-ninteen, .exhibition-twenty {
     display: flex;
+    margin-left: 25px;
+    margin-top: 50px;
+}
+
+.exhibition-twenty {
+    margin-bottom: 50px;
 }
 
 .image-box img {
-    width: 600px;
-    height: 500px;
+    width: 650px;
+    height: 550px;
 }
 
 .info-box {
-    width: 700px;
-    height: 500px;
+    width: 750px;
+    height: 550px;
+    text-align: center;
 }
 
 .info-box {
     background-color: #c4faf8;
+}
+
+.info-box p {
+    font-size: 18px;
+    padding: 0px 20px 0px 20px;
+}
+
+.info-box h1 {
+    font-size: 30px;
 }
