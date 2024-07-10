@@ -11,7 +11,7 @@
   .contactform, .checkoutform {
     background-color: #ffffff;
     color: #000000;
-    width: 1200px;
+    width: 800px;
     padding: 1em;
     border: 2px solid #000000;
     border-radius: 1em;
@@ -65,16 +65,17 @@ textarea {
 }
 
 /*Button In The Form*/
-form a {
+.formbutton {
   border: 2px solid #C0A9BD;
   background-color: #000000;
   float: auto;
   cursor: pointer;
   border-radius: 15px;
-  margin: 200px;
-  padding: 10px;
-  text-decoration: none;
-  color: #ffffff;
+}
+
+.formbutton a {
+    text-decoration: none;
+    color: #ffffff;
 }
 
 label {
@@ -82,4 +83,3 @@ label {
     font-size: 25px;
     width: 300px;
 }
-
