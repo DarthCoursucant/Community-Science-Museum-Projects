@@ -1,0 +1,17 @@
+.exhibitions-one {
+    display: flex;
+}
+
+.image-box img {
+    width: 600px;
+    height: 500px;
+}
+
+.info-box {
+    width: 700px;
+    height: 500px;
+}
+
+.info-box {
+    background-color: #c4faf8;
+}
