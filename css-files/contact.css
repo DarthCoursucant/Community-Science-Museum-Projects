@@ -77,3 +77,56 @@ label {
     font-size: 25px;
     width: 300px;
 }
+
+.more-contact-option {
+    display: flex;
+}
+
+#option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact {
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 2px solid #000000;
+    width: 400px;
+    color: #000000;
+    text-align: center;
+}
+
+#option-one-contact h1, #phone-number-contact h1, #front-desk-contact h1, .last-option-contact h1 {
+    font-size: 30px;
+}
+
+#phone-number-contact p, #front-desk-contact p, .last-option-contact p {
+    font-size: 20px;
+    padding: 0px 20px 0px 20px;
+}
+
+#option-one-contact a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+}
+
+#option-one-contact, #phone-number-contact, #front-desk-contact {
+    margin: 40px 0px 50px 70px;
+}
+
+.last-option-contact {
+    height: 250px;
+    margin-left: 550px;
+    margin-bottom: 50px;
+}
+
+.faq-link-contact-page {
+    width: 200px;
+    background-color: #C4FAF8;
+    border-radius: 20px;
+    border: 2px solid #000000;
+    margin-left: 100px;
+}
+
+.faq-link-contact-page a {
+    text-align: center;
+    text-decoration: none;
+    color: red;
+    font-size: 25px;
+}
