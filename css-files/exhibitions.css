@@ -13,7 +13,7 @@
     height: 550px;
 }
 
-.info-box {
+.info-box, .info-box-one, .info-box-two {
     width: 750px;
     height: 550px;
     text-align: center;
@@ -23,12 +23,16 @@
     background-color: #c4faf8;
 }
 
-.info-box p {
+.info-box-one {
+    background-color: #c1eabc;
+}
+
+.info-box p, .info-box-one p {
     font-size: 18px;
     padding: 0px 20px 0px 20px;
 }
 
-.info-box h1 {
+.info-box h1, .info-box-one h1 {
     font-size: 30px;
     text-decoration: underline;
 }
