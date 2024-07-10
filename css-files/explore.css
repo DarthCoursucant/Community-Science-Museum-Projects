@@ -1,4 +1,4 @@
-.for-kids-explore, .for-teachers-explore, .for-reasearchers-explore {
+.for-kids-section-explore-page {
     width: 1200px;
     border-radius: 20px;
     border: 2px solid #ffffff;
@@ -9,7 +9,7 @@
     height: 500px;
 }
 
-.for-kids-explore {
+.for-kids-section-explore-page {
     background-color: cadetblue;
 }
 
@@ -22,27 +22,27 @@
     margin-bottom: 30px;
 }
 
-.explore-text-box h1 {
+.explore-text h1 {
     font-size: 35px;
 }
 
-.explore-text-box p {
+.explore-text p {
     font-size: 20px;
+    padding-left: 150px;
+    padding-right: 50px;
+    width: 800px;
 }
 
-.explore-text-box {
-    padding: 0px 20px 0px 20px;
+.explore-text {
+    margin-left: 200px;
 }
 
-.explore-photo img {
+.explore-image img {
     width: 300px;
     height: 450px;
 }
 
-.for-kids-explore img {
+.explore-image {
     float: left;
-}
-
-.for-teachers-explore img {
-    float: right;
+    margin-left: 20px;
 }
