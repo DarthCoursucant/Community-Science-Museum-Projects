@@ -1,4 +1,4 @@
-.for-kids-section-explore-page {
+.for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
     width: 1200px;
     border-radius: 20px;
     border: 2px solid #ffffff;
@@ -6,43 +6,60 @@
     text-align: center;
     margin-top: 30px;
     margin-left: 160px;
-    height: 500px;
 }
 
 .for-kids-section-explore-page {
     background-color: cadetblue;
+    height: 500px;
 }
 
-.for-teachers-explore {
+.for-teachers-section-explore-page {
     background-color: brown;
+    height: 300px;
 }
 
-.for-reasearchers-explore {
+.for-researchers-section-explore-page {
     background-color: darkgreen;
     margin-bottom: 30px;
+    height: 300px;
 }
 
-.explore-text h1 {
+.explore-text h1, .explore-text-one h1 {
     font-size: 35px;
 }
 
-.explore-text p {
+.explore-text p, .explore-text-one p {
     font-size: 20px;
-    padding-left: 150px;
-    padding-right: 50px;
     width: 800px;
 }
 
 .explore-text {
-    margin-left: 200px;
+    margin-left: 40px;
 }
 
-.explore-image img {
+.explore-image img, .explore-image-one img {
     width: 300px;
     height: 450px;
+}
+
+.explore-image-one img {
+    width: 200px;
+    height: 250px;
 }
 
 .explore-image {
     float: left;
     margin-left: 20px;
+    margin-top: 20px;
+}
+
+.explore-image-one {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.explore-box-container {
+    display: flex;
 }
