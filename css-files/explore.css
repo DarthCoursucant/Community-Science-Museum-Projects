@@ -8,19 +8,26 @@
     margin-left: 160px;
 }
 
+.for-teachers-section-explore-page, .for-researchers-section-explore-page  {
+    margin-top: 75px;
+}
+
 .for-kids-section-explore-page {
-    background-color: cadetblue;
+    background-color: #C4FAF8;
+    box-shadow: 5px 5px 10px 12px #FAFABE;
     height: 500px;
 }
 
 .for-teachers-section-explore-page {
-    background-color: brown;
+    background-color: #F09EA7;
     height: 300px;
+    box-shadow: 5px 5px 10px 12px #FAFABE;
 }
 
 .for-researchers-section-explore-page {
-    background-color: darkgreen;
-    margin-bottom: 30px;
+    background-color: #C1EABC;
+    box-shadow: 5px 5px 10px 12px #FAFABE;
+    margin-bottom: 50px;
     height: 300px;
 }
 
