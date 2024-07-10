@@ -14,36 +14,31 @@
     box-shadow: 5px 5px 10px 20px #fafabe;
   }
 
-  /*Contact Form In Contact Page Code*/
-  .contactform {
+.contactform {
     margin: 50px auto;
   }
 
-  /*Checkout Form Code*/
-  .checkoutform {
+.checkoutform {
     margin: 20px;
   }
 
-  /*List Settings*/
-  ul {
+ul {
     list-style: none;
     padding: 10px;
     margin: 10px;
   }
   
-  label {
+label {
     display: inline-block;
     width: 200px;
     text-align: center;
   }
   
-  /*Input Field After This Sign*/
-  label::after {
+label::after {
     content: ":";
   }
 
-  /*Input Area Code*/
-  input,textarea {
+input,textarea {
   font-size: 20px;
   width: 400px;
   box-sizing: border-box;
@@ -52,7 +47,6 @@
   background-color: #fafabe;
 }
 
-/*Comment Field Code*/
 textarea {
   vertical-align: middle;
   height: 5em;
@@ -60,18 +54,22 @@ textarea {
   resize: none;
 }
 
-/*Button In The Form*/
 .formbutton {
-  border: 2px solid #C0A9BD;
-  background-color: #000000;
+  border: 2px solid #000000;
+  background-color: #C4FAF8;
   float: auto;
   cursor: pointer;
   border-radius: 15px;
+  width: 250px;
+  text-align: center;
+  padding-bottom: 10px;
+  margin: 30px 0px 0px 200px;
 }
 
 .formbutton a {
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
+    font-size: 25px;
 }
 
 label {
