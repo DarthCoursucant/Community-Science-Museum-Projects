@@ -33,21 +33,29 @@
     width: 800px;
 }
 
+.explore-text-one p {
+    padding-left: 50px;
+}
+
+.explore-text-one h1{
+    padding-left: 80px;
+}
+
 .explore-text {
     margin-left: 40px;
 }
 
-.explore-image img, .explore-image-one img {
+.explore-image img {
     width: 300px;
     height: 450px;
 }
 
-.explore-image-one img {
-    width: 200px;
+.explore-image-one img, .explore-image-two img {
+    width: 190px;
     height: 250px;
 }
 
-.explore-image {
+.explore-image, .explore-image-two {
     float: left;
     margin-left: 20px;
     margin-top: 20px;
