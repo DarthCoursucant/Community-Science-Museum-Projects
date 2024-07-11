@@ -59,3 +59,16 @@
     color: red;
     font-size: 22px;
 }
+
+.donation-form {
+    width: 1000px;
+    font-size: 25px;
+}
+
+#amount-one {
+    margin-left: 170px;
+}
+
+#amount-two, #amount-three, #amount-four, #amount-five {
+    margin-left: 30px;
+}
