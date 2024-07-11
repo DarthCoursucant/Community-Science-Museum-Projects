@@ -9,17 +9,13 @@
 }
 
 .image-box img {
-    width: 650px;
-    height: 550px;
-}
-
-.image-box {
-    box-shadow: 15px 15px 20px rgb(0, 0, 0, 0,4)
+    width: 550px;
+    height: 350px;
 }
 
 .info-box, .info-box-one, .info-box-two {
-    width: 750px;
-    height: 550px;
+    width: 550px;
+    height: 350px;
     text-align: center;
 }
 
