@@ -15,6 +15,7 @@
     border: 2px solid #000000;
     margin-top: 50px;
     border-radius: 20px;
+    height: 650px;
 }
 
 .support-us-option {
@@ -40,4 +41,19 @@
     font-size: 20px;
     color: #000000;
     padding: 0px 50px 0px 50px;
+}
+
+.support-button {
+    width: 500px;
+    background-color: aliceblue;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 250px;
+}
+
+.support-button a {
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
 }
