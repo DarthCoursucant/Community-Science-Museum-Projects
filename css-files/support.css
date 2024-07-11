@@ -12,22 +12,23 @@
 .support-us-option, .volunteer-option, .interships-option {
     width: 1000px;
     margin-left: 300px;
-    border: 2px solid #000000;
+    border: 2px solid #ffffff;
     margin-top: 50px;
     border-radius: 20px;
     height: 650px;
 }
 
-.support-us-option {
-    background-color: blue;
+.support-us-option, .interships-option {
+    background-color: #C4FAF8;
+    box-shadow: 5px 5px 10px 12px #B0DDDB;
 }
 
 .volunteer-option {
-    background-color: burlywood;
+    background-color: #c1eabc;
+    box-shadow: 5px 5px 10px 12px #ACCDA8;
 }
 
 .interships-option {
-    background-color: chocolate;
     margin-bottom: 50px;
 }
 
