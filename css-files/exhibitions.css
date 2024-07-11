@@ -19,24 +19,30 @@
 }
 
 .info-box {
-    background-color: #c4faf8;
+    background-color: #023288;
 }
 
 .info-box-one {
-    background-color: #c1eabc;
+    background-color: #2E7702;
 }
 
 .info-box p, .info-box-one p {
     font-size: 18px;
     padding: 0px 20px 0px 20px;
+    color: #ffffff;
 }
 
 .info-box h1, .info-box-one h1 {
     font-size: 30px;
     text-decoration: underline;
+    color: #ffffff;
 }
 
 h1 {
-    font-size: 35px;
+    font-size: 45px;
     text-align: center;
+}
+
+.exhibitions-five {
+    margin-bottom: 50px;
 }
