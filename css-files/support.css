@@ -1,0 +1,25 @@
+.support-image img {
+    width: 300px;
+    height: 200px;
+}
+
+.support-us-option, .volunteer-option, .interships-option {
+    width: 1000px;
+    margin-left: 300px;
+    border: 2px solid #000000;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.support-us-option {
+    background-color: blue;
+}
+
+.volunteer-option {
+    background-color: burlywood;
+}
+
+.interships-option {
+    background-color: chocolate;
+    margin-bottom: 50px;
+}
