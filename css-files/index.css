@@ -99,3 +99,8 @@
 .header-of-specific-page h1 {
     text-decoration: underline;
 }
+
+#specific-file-info a {
+    color: #FF0303;
+    text-decoration: underline;
+}
