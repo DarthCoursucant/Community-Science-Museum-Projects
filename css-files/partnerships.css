@@ -21,14 +21,11 @@
     background-color: chartreuse;
     font-size: 25px;
     margin-top: 30px;
+    text-align: center;
 }
 
-#space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #nasa-option, #greenpeace-option, #apple-option, #nfl-option, #harvard-universtiy-option, #yale-option, #brown-option, #tesla-fundation-option, #archelogy-option, #world-animal-protection-option, #grail-option, #end-point-option, #forbes-option, #microsoft-option, #meta-option, #samsung-option, #berkshire-hathaway-option, #visa-option, #mckenson-corporation-option, #occidental-petroleum-option {
-    margin-left: 30px;
-}
-
-#tesla-option, #nba-option, #formation-bio-option, #sony-option {
-    margin-left: 40px;
+#space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #nasa-option, #greenpeace-option, #apple-option, #nfl-option, #harvard-universtiy-option, #yale-option, #brown-option, #tesla-fundation-option, #archelogy-option, #world-animal-protection-option, #grail-option, #end-point-option, #forbes-option, #microsoft-option, #meta-option, #samsung-option, #berkshire-hathaway-option, #visa-option, #mckenson-corporation-option, #occidental-petroleum-option, #tesla-option, #nba-option, #formation-bio-option, #sony-option {
+    margin-left: 50px;
 }
 
 #tesla-option a, #space-x-option a, #daily-wire-option a, #young-americas-foundation-option a, #republicans-comiite-option a, #nasa-option a, #greenpeace-option a, #apple-option a, #nfl-option a, #nba-option a, #harvard-universtiy-option a, #yale-option a, #brown-option a, #tesla-fundation-option a, #archelogy-option a, #world-animal-protection-option a, #grail-option a, #formation-bio-option a, #end-point-option a, #forbes-option a, #microsoft-option a, #meta-option a, #samsung-option a, #sony-option a, #berkshire-hathaway-option a, #visa-option a, #mckenson-corporation-option a, #occidental-petroleum-option a {
@@ -40,4 +37,29 @@
     background-color: #ffffff;
     border-radius: 20px;
     border: 2px solid black;
+    height: 40px;
+}
+
+#tesla-option, #space-x-option, #daily-wire-option,  #young-americas-foundation-option, #republicans-comiite-option {
+    padding-top: 10px;
+}
+
+#tesla-option {
+    width: 100px;
+}
+
+#space-x-option {
+    width: 150px;
+}
+
+#daily-wire-option {
+    width: 200px;
+}
+
+#young-americas-foundation-option {
+    width: 350px;
+}
+
+#republicans-comiite-option {
+    width: 400px;
 }
