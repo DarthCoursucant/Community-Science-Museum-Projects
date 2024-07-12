@@ -35,3 +35,9 @@
     text-decoration: none;
     color: red;
 }
+
+#tesla-option, #space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #nasa-option, #greenpeace-option, #apple-option, #nfl-option, #nba-option, #harvard-universtiy-option, #yale-option, #brown-option, #tesla-fundation-option, #archelogy-option, #world-animal-protection-option, #grail-option, #formation-bio-option, #end-point-option, #forbes-option, #microsoft-option, #meta-option, #samsung-option, #sony-option, #berkshire-hathaway-option, #visa-option, #mckenson-corporation-option, #occidental-petroleum-option {
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 2px solid black;
+}
