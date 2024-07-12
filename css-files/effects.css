@@ -1,13 +1,8 @@
 .button-header:hover {
     background-color: #c4faf8;
-    color: #ffffff;
     border: 2px solid #c7caff;
 }
 
 .button-header a:hover {
     color: #ffffff;
-}
-
-.button-header:active {
-    background-color: #c1eabc;
 }
