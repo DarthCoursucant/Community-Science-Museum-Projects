@@ -1,8 +1,18 @@
-.button-header:hover {
+.button-header:hover, .hero-image-button:hover {
     background-color: #c4faf8;
     border: 2px solid #c7caff;
 }
 
 .button-header a:hover {
     color: #ffffff;
+}
+
+.hero-image-button a:hover {
+    color: #000000;
+}
+
+.hero-image-button:hover {
+    box-shadow: 5px 5px 10px 5px #c7caff;
+    background-color: #c4faf8;
+    border: 2px solid #c7caff;
 }
