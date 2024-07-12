@@ -18,5 +18,9 @@
 }
 
 .specifc-file-text:hover {
+    background-color: #c4faf8;
+}
+
+.specifc-file-text-one:hover {
     background-color: #FAC898;
 }
