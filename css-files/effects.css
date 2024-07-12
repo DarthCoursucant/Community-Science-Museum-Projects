@@ -1,10 +1,5 @@
 .button-header:hover, .hero-image-button:hover {
     background-color: #c4faf8;
-    border: 2px solid #c7caff;
-}
-
-.button-header a:hover {
-    color: #F8C8DC;
 }
 
 .hero-image-button:hover {
@@ -31,4 +26,19 @@
 
 .info-box-one:hover {
     background-color: #F8C8DC;
+}
+
+.visit-us-box-one:hover {
+    background-color: #c1eabc;
+    box-shadow: 5px 5px 10px 12px #ACCDA8;
+}
+
+#openning-hours-box:hover, #faq-questions-visit-us:hover {
+    background-color: #023288;
+    color: #ffffff;
+}
+
+#free-admision-box:hover {
+    background-color: #2E7702;
+    color: #ffffff;
 }
