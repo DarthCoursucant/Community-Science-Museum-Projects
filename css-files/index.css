@@ -29,8 +29,9 @@
     background-color: #c1eabc;
     width: 530px;
     border-radius: 20px;
-    border: 2px solid snow;
+    border: 2px solid #c7caff;
     margin-left: 500px;
+    box-shadow: 5px 5px 10px 5px #FAFABE;
     margin-top: 40px;
 }
 
