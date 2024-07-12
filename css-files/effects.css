@@ -4,7 +4,7 @@
 }
 
 .button-header a:hover {
-    color: #ffffff;
+    color: #F8C8DC;
 }
 
 .hero-image-button a:hover {
@@ -23,4 +23,8 @@
 
 .specifc-file-text-one:hover {
     background-color: #FAC898;
+}
+
+#footer-option-four a:hover {
+    color: #023288;
 }
