@@ -7,7 +7,7 @@
     margin-top: 50px;
 }
 
-.partnerships-info-page h1 {
+.partnerships-info-page h1, h1 {
     text-align: center;
     font-size: 35px;
 }
@@ -19,9 +19,15 @@
 
 .parnterships-overview {
     display: flex;
+    background-color: chartreuse;
+    font-size: 25px;
 }
 
-h1 {
-    font-size: 35px;
-    text-align: center;
+#space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #nasa-option {
+    margin-left: 30px;
+}
+
+#tesla-option a, #space-x-option a, #daily-wire-option a, #young-americas-foundation-option a, #republicans-comiite-option a, #nasa-option a {
+    text-decoration: none;
+    color: red;
 }
