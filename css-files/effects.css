@@ -7,10 +7,6 @@
     color: #F8C8DC;
 }
 
-.hero-image-button a:hover {
-    color: #000000;
-}
-
 .hero-image-button:hover {
     box-shadow: 5px 5px 10px 5px #c7caff;
     background-color: #c4faf8;
@@ -27,4 +23,12 @@
 
 #footer-option-four a:hover {
     color: #023288;
+}
+
+.info-box:hover {
+   background-color: #FAC898;
+}
+
+.info-box-one:hover {
+    background-color: #F8C8DC;
 }
