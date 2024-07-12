@@ -51,7 +51,7 @@
 }
   
 .active, .unfold-question-thing:hover {
-    background-color: #FFA6C1;
+    background-color: #F8C8DC;
     border: 2px solid #000000;
 }
   
@@ -59,7 +59,7 @@
     padding: 25px 75px 25px 75px;
     display: none;
     overflow: hidden;
-    background-color: #C4FAF8;
+    background-color: #FAFAFA;
     text-align: center;
     font-size: 20px;
     border: 2px solid #000000;
