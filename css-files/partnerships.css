@@ -40,19 +40,19 @@
     height: 40px;
 }
 
-#tesla-option, #space-x-option, #daily-wire-option,  #young-americas-foundation-option, #republicans-comiite-option {
+#tesla-option, #space-x-option, #daily-wire-option,  #young-americas-foundation-option, #republicans-comiite-option, #nasa-option, #greenpeace-option, #apple-option {
     padding-top: 10px;
 }
 
-#tesla-option {
+#tesla-option, #nasa-option {
     width: 100px;
 }
 
-#space-x-option {
+#space-x-option, #apple-option {
     width: 150px;
 }
 
-#daily-wire-option {
+#daily-wire-option, #greenpeace-option {
     width: 200px;
 }
 
