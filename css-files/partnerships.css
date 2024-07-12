@@ -24,47 +24,43 @@
     text-align: center;
 }
 
-#space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #greenpeace-option, #apple-option, #nfl-option, #harvard-universtiy-option, #yale-option, #brown-option, #tesla-fundation-option, #archelogy-option, #world-animal-protection-option, #grail-option, #end-point-option, #forbes-option, #microsoft-option, #meta-option, #samsung-option, #berkshire-hathaway-option, #visa-option, #mckenson-corporation-option, #occidental-petroleum-option, #tesla-option, #nba-option, #formation-bio-option, #sony-option {
+#space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #greenpeace-option, #apple-option, #nfl-option, #harvard-universtiy-option, #yale-option, #brown-option, #tesla-fundation-option, #archelogy-option, #world-animal-protection-option, #grail-option, #end-point-option, #forbes-option, #microsoft-option, #meta-option, #samsung-option, #berkshire-hathaway-option, #visa-option, #mckenson-corporation-option, #occidental-petroleum-option, #tesla-option, #nba-option, #formation-bio-option, #sony-option, #nasa-option, #benchling-option, #ubisoft-option, #rockstar-games-option, #varjo-option, #niantic-option {
     margin-left: 50px;
 }
 
-#nasa-option {
-    margin-left: 130px;
-}
-
-#tesla-option a, #space-x-option a, #daily-wire-option a, #young-americas-foundation-option a, #republicans-comiite-option a, #nasa-option a, #greenpeace-option a, #apple-option a, #nfl-option a, #nba-option a, #harvard-universtiy-option a, #yale-option a, #brown-option a, #tesla-fundation-option a, #archelogy-option a, #world-animal-protection-option a, #grail-option a, #formation-bio-option a, #end-point-option a, #forbes-option a, #microsoft-option a, #meta-option a, #samsung-option a, #sony-option a, #berkshire-hathaway-option a, #visa-option a, #mckenson-corporation-option a, #occidental-petroleum-option a {
+#tesla-option a, #space-x-option a, #daily-wire-option a, #young-americas-foundation-option a, #republicans-comiite-option a, #nasa-option a, #greenpeace-option a, #apple-option a, #nfl-option a, #nba-option a, #harvard-universtiy-option a, #yale-option a, #brown-option a, #tesla-fundation-option a, #archelogy-option a, #world-animal-protection-option a, #grail-option a, #formation-bio-option a, #end-point-option a, #forbes-option a, #microsoft-option a, #meta-option a, #samsung-option a, #sony-option a, #berkshire-hathaway-option a, #visa-option a, #mckenson-corporation-option a, #occidental-petroleum-option a, #benchling-option a, #ubisoft-option a, #rockstar-games-option a, #varjo-option a, #niantic-option a {
     text-decoration: none;
     color: red;
 }
 
-#tesla-option, #space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #nasa-option, #greenpeace-option, #apple-option, #nfl-option, #nba-option, #harvard-universtiy-option, #yale-option, #brown-option, #tesla-fundation-option, #archelogy-option, #world-animal-protection-option, #grail-option, #formation-bio-option, #end-point-option, #forbes-option, #microsoft-option, #meta-option, #samsung-option, #sony-option, #berkshire-hathaway-option, #visa-option, #mckenson-corporation-option, #occidental-petroleum-option {
+#tesla-option, #space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #nasa-option, #greenpeace-option, #apple-option, #nfl-option, #nba-option, #harvard-universtiy-option, #yale-option, #brown-option, #tesla-fundation-option, #archelogy-option, #world-animal-protection-option, #grail-option, #formation-bio-option, #end-point-option, #forbes-option, #microsoft-option, #meta-option, #samsung-option, #sony-option, #berkshire-hathaway-option, #visa-option, #mckenson-corporation-option, #occidental-petroleum-option, #benchling-option, #ubisoft-option, #rockstar-games-option, #varjo-option, #niantic-option {
     background-color: #ffffff;
     border-radius: 20px;
     border: 2px solid black;
     height: 40px;
 }
 
-#tesla-option, #space-x-option, #daily-wire-option,  #young-americas-foundation-option, #republicans-comiite-option, #nasa-option, #greenpeace-option, #apple-option, #nfl-option, #nba-option, #harvard-universtiy-option, #samsung-option, #yale-option, #brown-option, #tesla-fundation-option, #grail-option, #microsoft-option, #archelogy-option, #world-animal-protection-option, #berkshire-hathaway-option, #forbes-option {
+#tesla-option, #space-x-option, #daily-wire-option,  #young-americas-foundation-option, #republicans-comiite-option, #nasa-option, #greenpeace-option, #apple-option, #nfl-option, #nba-option, #harvard-universtiy-option, #samsung-option, #yale-option, #brown-option, #tesla-fundation-option, #grail-option, #microsoft-option, #archelogy-option, #world-animal-protection-option, #berkshire-hathaway-option, #forbes-option, #formation-bio-option, #meta-option, #visa-option, #occidental-petroleum-option, #mckenson-corporation-option, #end-point-option, #sony-option, #benchling-option, #ubisoft-option, #rockstar-games-option, #varjo-option, #niantic-option {
     padding-top: 10px;
 }
 
-#tesla-option, #nasa-option, #nfl-option, #nba-option, #grail-option {
+#tesla-option, #nasa-option, #nfl-option, #nba-option, #grail-option, #meta-option, #visa-option, #sony-option {
     width: 100px;
 }
 
-#space-x-option, #apple-option, #samsung-option, #microsoft-option, #forbes-option {
+#space-x-option, #apple-option, #samsung-option, #microsoft-option, #forbes-option, #benchling-option, #ubisoft-option, #niantic-option {
     width: 150px;
 }
 
-#daily-wire-option, #greenpeace-option {
+#daily-wire-option, #greenpeace-option, #formation-bio-option {
     width: 200px;
 }
 
-#harvard-universtiy-option, #yale-option {
+#harvard-universtiy-option, #yale-option, #end-point-option, #rockstar-games-option {
     width: 250px;
 }
 
-#brown-option, #berkshire-hathaway-option {
+#brown-option, #berkshire-hathaway-option, #occidental-petroleum-option, #mckenson-corporation-option, #varjo-option {
     width: 300px;
 }
 
