@@ -54,7 +54,7 @@
 }
 
 .support-button-form {
-    margin-left: 530px;
+    margin-left: 200px;
 }
 
 .support-button {
@@ -68,23 +68,22 @@
 }
 
 .donation-form {
-    width: 1516px;
+    width: 1200px;
     font-size: 20px;
-    background-color: #FAFABE;
     outline: none;
-    margin-left: -10px;
+    margin: 50px 0px 0px 200px;
 }
 
 #amount-one {
-    margin-left: 250px;
+    margin-left: 100px;
 }
 
 #whole-custome-amount {
-    margin-left: 500px;
+    margin-left: 150px;
 }
 
 #amount-two, #amount-three, #amount-four, #amount-five {
-    margin-left: 100px;
+    margin-left: 60px;
 }
 
 input {
