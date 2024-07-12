@@ -4,6 +4,7 @@
     border-radius: 20px;
     border: 2px solid black;
     margin-left: 250px;
+    margin-top: 50px;
 }
 
 .partnerships-info-page h1 {
@@ -18,4 +19,9 @@
 
 .parnterships-overview {
     display: flex;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
 }
