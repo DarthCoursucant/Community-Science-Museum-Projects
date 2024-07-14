@@ -241,3 +241,28 @@ main.page-body {
 
 /* END FOOTER CODE */
 
+/* SEPCIAL EFFECTS */
+#footer-option-four a:hover {
+    color: #023288;
+    font-size: 25px;
+}
+
+#about-fotter:hover {
+    margin-left: 85px;
+}
+
+#contact-footer:hover {
+    margin-left: 80px;
+}
+
+#partnerships-footer:hover {
+    margin-left: 60px;
+}
+
+#explore-footer:hover {
+    margin-left: 30px;
+}
+
+#practical-information-fotter:hover {
+    margin-left: 20px;
+}
