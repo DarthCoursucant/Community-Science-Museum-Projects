@@ -102,10 +102,14 @@
 
 #specific-file-info a {
     color: #FF0303;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 /* SPECIAL EFFECTS */
+
+#specific-file-info a:hover {
+    color: #094CDB;
+}
 
 .hero-image-button:hover {
     background-color: #2E7702;
