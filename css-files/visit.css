@@ -44,12 +44,23 @@
 }
 
 #openning-hours-box, #free-admision-box, #faq-questions-visit-us {
-    background-color: #ffffff;
     width: 400px;
-    color: #000000;
+    color: #000;
     border-radius: 20px;
-    box-shadow: 5px 5px 10px 12px #a7dad8;
+    border: 2px solid #000000;
     margin: 30px 0px 30px 0px;
+}
+
+#openning-hours-box {
+    background-color: #E49BC4;
+}
+
+#free-admision-box {
+    background-color: #F2D0A5;
+}
+
+#faq-questions-visit-us {
+    background-color: #AD9ACC;
 }
 
 #free-admision-box, #faq-questions-visit-us {
@@ -71,19 +82,31 @@
 }
 
 #visit-us-faq-button {
+    box-shadow: 5px 5px 10px 5px #094CDB;
+    background-color: #023299;
     width: 200px;
-    background-color: #a7dad8;
     margin-left: 100px;
     text-align: center;
-    border: 2px solid #000000;
+    border: 2px solid #ffffff;
     border-radius: 20px;
 }
 
 #visit-us-faq-button a {
     text-decoration: none;
-    color: #FF0303;
+    color: #ffffff;
 }
 
 #openning-hours-box {
     margin-left: 95px;
+}
+
+/* SPECIAL EFFECTS */
+
+#openning-hours-box:hover, #free-admision-box:hover, #faq-questions-visit-us:hover {
+    box-shadow: 0px 0px 10px 10px #626592;
+}
+
+#visit-us-faq-button:hover {
+    background-color: #2E7702;
+    box-shadow: 5px 5px 10px 5px #50CE03;
 }
