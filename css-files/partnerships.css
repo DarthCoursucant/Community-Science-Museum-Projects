@@ -78,7 +78,7 @@
 
 /* SPECIAL EFFECTS */
 
-#young-americas-foundation-option:hover, #tesla-option:hover, #space-x-option:hover, #republicans-comiite-option:hover, #daily-wire-option:hover, #nasa-option:hover, #greenpeace-option:hover, #tesla-fundation-option:hover, #apple-option:hover, #harvard-universtiy-option:hover, #meta-option:hover, #archelogy-option:hover, #nfl-option:hover, #yale-option:hover, #samsung-option:hover, #brown-option:hover {
+#young-americas-foundation-option:hover, #tesla-option:hover, #space-x-option:hover, #republicans-comiite-option:hover, #daily-wire-option:hover, #nasa-option:hover, #greenpeace-option:hover, #tesla-fundation-option:hover, #apple-option:hover, #harvard-universtiy-option:hover, #meta-option:hover, #archelogy-option:hover, #nfl-option:hover, #yale-option:hover, #samsung-option:hover, #brown-option:hover, #world-animal-protection-option:hover, #grail-option:hover, #nba-option:hover, #microsoft-option:hover, #berkshire-hathaway-option:hover, #forbes-option:hover {
     background-color: #023299;
     box-shadow: 5px 5px 10px 5px #094CDB;
     border: 2px solid #ffffff;
@@ -86,12 +86,12 @@
     margin-top: -10px;
 }
 
-#young-americas-foundation-option a:hover, #tesla-option a:hover, #space-x-option a:hover, #republicans-comiite-option a:hover, #daily-wire-option a:hover, #nasa-option a:hover, #greenpeace-option a:hover, #tesla-fundation-option a:hover, #apple-option a:hover, #harvard-universtiy-option a:hover, #meta-option a:hover, #archelogy-option a:hover, #nfl-option a:hover, #yale-option a:hover, #samsung-option a:hover, #brown-option a:hover {
+#young-americas-foundation-option a:hover, #tesla-option a:hover, #space-x-option a:hover, #republicans-comiite-option a:hover, #daily-wire-option a:hover, #nasa-option a:hover, #greenpeace-option a:hover, #tesla-fundation-option a:hover, #apple-option a:hover, #harvard-universtiy-option a:hover, #meta-option a:hover, #archelogy-option a:hover, #nfl-option a:hover, #yale-option a:hover, #samsung-option a:hover, #brown-option a:hover, #world-animal-protection-option a:hover, #grail-option a:hover, #nba-option a:hover, #microsoft-option a:hover, #berkshire-hathaway-option a:hover, #forbes-option a:hover {
     color: #ffffff;
     font-size: 30px;
 }
 
-#young-americas-foundation-option:hover {
+#young-americas-foundation-option:hover, #world-animal-protection-option:hover {
     width: 450px;
 }
 
@@ -99,7 +99,7 @@
     width: 500px;
 }
 
-#tesla-fundation-option:hover, #harvard-universtiy-option:hover {
+#tesla-fundation-option:hover, #harvard-universtiy-option:hover, #berkshire-hathaway-option:hover {
     width: 400px;
 }
 
@@ -107,14 +107,14 @@
     width: 300px;
 }
 
-#daily-wire-option:hover, #greenpeace-option:hover {
+#daily-wire-option:hover, #greenpeace-option:hover, #microsoft-option:hover {
     width: 250px;
 }
 
-#tesla-option:hover, #nasa-option:hover, #space-x-option:hover, #apple-option:hover, #meta-option:hover, #nfl-option:hover, #samsung-option:hover{
+#tesla-option:hover, #nasa-option:hover, #space-x-option:hover, #apple-option:hover, #meta-option:hover, #nfl-option:hover, #samsung-option:hover, #grail-option:hover, #nba-option:hover, #forbes-option:hover {
     width: 200px;
 }
 
-#tesla-option:hover, #republicans-comiite-option:hover, #daily-wire-option:hover, #young-americas-foundation-option:hover, #nasa-option:hover, #greenpeace-option:hover, #tesla-fundation-option:hover, #apple-option:hover, #harvard-universtiy-option:hover, #meta-option:hover, #archelogy-option:hover, #nfl-option:hover, #yale-option:hover, #samsung-option:hover, #brown-option:hover {
+#tesla-option:hover, #republicans-comiite-option:hover, #daily-wire-option:hover, #young-americas-foundation-option:hover, #nasa-option:hover, #greenpeace-option:hover, #tesla-fundation-option:hover, #apple-option:hover, #harvard-universtiy-option:hover, #meta-option:hover, #archelogy-option:hover, #nfl-option:hover, #yale-option:hover, #samsung-option:hover, #brown-option:hover, #world-animal-protection-option:hover, #grail-option:hover, #nba-option:hover, #microsoft-option:hover, #berkshire-hathaway-option:hover, #forbes-option:hover {
     margin-left: 20px;
 }
