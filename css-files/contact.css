@@ -5,13 +5,13 @@
   }
 
 .contactform, .checkoutform {
-    background-color: #ffffff;
+  background-color: #c1eabc;
     color: #000000;
     width: 750px;
     padding: 1em;
     border: 2px solid #000000;
     border-radius: 1em;
-    box-shadow: 5px 5px 10px 20px #fafabe;
+    box-shadow: 0px 0px 10px 10px #626592;
   }
 
 .contactform {
@@ -20,6 +20,11 @@
 
 .checkoutform {
     margin: 20px;
+  }
+
+  .contactform h1 {
+    font-size: 30px;
+    text-align: center;
   }
 
 ul {
@@ -44,7 +49,7 @@ input,textarea {
   box-sizing: border-box;
   border: 2px solid #000000;
   outline: none;
-  background-color: #fafabe;
+  background-color: #ffffff;
 }
 
 textarea {
@@ -55,8 +60,9 @@ textarea {
 }
 
 .formbutton {
-  border: 2px solid #000000;
-  background-color: #C4FAF8;
+  border: 2px solid #ffffff;
+  background-color: #023299;
+  box-shadow: 5px 5px 10px 5px #094CDB;
   float: auto;
   cursor: pointer;
   border-radius: 15px;
@@ -68,7 +74,7 @@ textarea {
 
 .formbutton a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
     font-size: 25px;
 }
 
