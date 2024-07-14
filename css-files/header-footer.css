@@ -266,3 +266,11 @@ main.page-body {
 #practical-information-fotter:hover {
     margin-left: 20px;
 }
+
+#footer-option-one h1:hover, #footer-option-one p:hover, #footer-option-two h1:hover, #footer-option-two p:hover {
+    color: #023288;
+}
+
+#footer-option-two p:hover {
+    font-size: 22px;
+}
