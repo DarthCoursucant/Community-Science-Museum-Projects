@@ -5,7 +5,7 @@
   }
 
 .contactform, .checkoutform {
-  background-color: #c1eabc;
+    background-color: #c1eabc;
     color: #000000;
     width: 750px;
     padding: 1em;
@@ -61,15 +61,15 @@ textarea {
 
 .formbutton {
   border: 2px solid #ffffff;
-  background-color: #023299;
-  box-shadow: 5px 5px 10px 5px #094CDB;
+  background-color: #2E7702;
+  box-shadow: 5px 5px 10px 5px #50CE03;
   float: auto;
   cursor: pointer;
   border-radius: 15px;
   width: 250px;
   text-align: center;
   padding-bottom: 10px;
-  margin: 30px 0px 0px 200px;
+  margin: 30px 0px 0px 250px;
 }
 
 .formbutton a {
@@ -154,7 +154,46 @@ label {
 }
 
 /* SPECIAL EFFECTS */
-.faq-link-contact-page:hover {
+.faq-link-contact-page:hover, .faq-link-contact-page:hover {
   background-color: #2E7702;
   box-shadow: 5px 5px 10px 5px #50CE03;
+}
+
+.contactform:hover {
+  background-color: #B1DEF1;
+  box-shadow: 5px 5px 10px 10px #fafafa;
+  width: 850px;
+}
+
+#option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover, .last-option-contact:hover {
+  background-color: #CBB7ED;
+  box-shadow: 5px 5px 10px 5px #826EB0;
+  border: 2px solid #ffffff;
+}
+
+#option-one-contact a:hover{
+  color: red;
+  font-size: 25px;
+}
+
+#option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover {
+  width: 500px;
+  margin-left: 30px;
+}
+
+#first-name:hover, #last-name:hover, #phone-number:hover, #email-filed:hover {
+  height: 60px;
+}
+
+#first-name:hover, #last-name:hover, #phone-number:hover, #email-filed:hover, #question-filed:hover {
+  width: 500px;
+}
+
+#question-filed:hover {
+  height: 130px;
+}
+
+.formbutton:hover {
+  background-color: #023299;
+  box-shadow: 5px 5px 10px 5px #094CDB;
 }
