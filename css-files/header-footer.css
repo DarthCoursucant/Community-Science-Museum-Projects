@@ -119,7 +119,7 @@ main.page-body {
 
 .button-header {
     width: 150px;
-    background-color: #A0D9F3;
+    background-color: #CBB7ED;
     border: 2px solid #000000;
     height: 45px;
     border-radius: 20px;
@@ -285,8 +285,8 @@ main.page-body {
 }
 
 .button-header:hover {
-    background-color: #50CE03;
-    box-shadow: 5px 5px 10px 5px #2E7702;
+    background-color: #023299;
+    box-shadow: 5px 5px 10px 5px #094CDB;
     color: #ffffff;
     border: 2px solid #ffffff;
 }
