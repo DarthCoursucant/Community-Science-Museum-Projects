@@ -14,6 +14,7 @@
 .hero-image-container {
     width: 1400px;
     margin: 50px 0px 30px 50px;
+    box-shadow: 0px 0px 10px 10px #626592;
 }
 
 .hero-text {
@@ -32,4 +33,9 @@
 
 .hero-text p {
     font-size: 20px;
+}
+
+/* SPECIAL EFFECTS */
+.hero-image-container:hover {
+    box-shadow: 0px 0px 10px 10px #ffffff;
 }
