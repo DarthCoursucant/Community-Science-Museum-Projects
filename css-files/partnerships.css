@@ -25,6 +25,7 @@
 
 #space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #greenpeace-option, #apple-option, #nfl-option, #harvard-universtiy-option, #yale-option, #brown-option, #tesla-fundation-option, #archelogy-option, #world-animal-protection-option, #grail-option, #end-point-option, #forbes-option, #microsoft-option, #meta-option, #samsung-option, #berkshire-hathaway-option, #visa-option, #mckenson-corporation-option, #occidental-petroleum-option, #tesla-option, #nba-option, #formation-bio-option, #sony-option, #nasa-option, #benchling-option, #ubisoft-option, #rockstar-games-option, #varjo-option, #niantic-option, #htc-option {
     margin-left: 50px;
+    box-shadow: 0px 0px 10px 10px #626592;
 }
 
 #tesla-option a, #space-x-option a, #daily-wire-option a, #young-americas-foundation-option a, #republicans-comiite-option a, #nasa-option a, #greenpeace-option a, #apple-option a, #nfl-option a, #nba-option a, #harvard-universtiy-option a, #yale-option a, #brown-option a, #tesla-fundation-option a, #archelogy-option a, #world-animal-protection-option a, #grail-option a, #formation-bio-option a, #end-point-option a, #forbes-option a, #microsoft-option a, #meta-option a, #samsung-option a, #sony-option a, #berkshire-hathaway-option a, #visa-option a, #mckenson-corporation-option a, #occidental-petroleum-option a, #benchling-option a, #ubisoft-option a, #rockstar-games-option a, #varjo-option a, #niantic-option a, #htc-option a {
@@ -73,4 +74,39 @@
 
 .parnterships-overview-last {
     margin-bottom: 100px;
+}
+
+/* SPECIAL EFFECTS */
+
+#young-americas-foundation-option:hover, #tesla-option:hover, #space-x-option:hover, #republicans-comiite-option:hover {
+    background-color: #023299;
+    box-shadow: 5px 5px 10px 5px #094CDB;
+    border: 2px solid #ffffff;
+    padding-bottom: 10px;
+    margin-top: -10px;
+}
+
+#young-americas-foundation-option a:hover, #tesla-option a:hover, #space-x-option a:hover, #republicans-comiite-option a:hover {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+#young-americas-foundation-option:hover {
+    width: 450px;
+}
+
+#republicans-comiite-option:hover {
+    width: 500px;
+}
+
+#tesla-option:hover {
+    width: 200px;
+}
+
+#young-americas-foundation-option:hover {
+    margin-left: 10px;
+}
+
+#tesla-option:hover, #republicans-comiite-option:hover {
+    margin-left: 20px;
 }
