@@ -47,6 +47,13 @@ main.page-body {
     padding-top: 50px;
     text-align: center;
   }
+
+  #mymenu img {
+    width: 55px;
+    height: 55px;
+    margin-top: 30px;
+    margin-top: 30px 30px 0px 0px;
+  }
   
   .menubar a {
     padding: 8px 8px 8px 32px;
@@ -60,8 +67,7 @@ main.page-body {
   .menubar h1 {
     color: #000000;
     font-size: 30px;
-    margin-bottom: 30px;
-    margin-left: 20px;
+    margin: 50px 0px 30px 20px;
   }
   
   .menubar {
@@ -74,6 +80,10 @@ main.page-body {
     top: 0;
     right: 25px;
     font-size: 36px;
+  }
+
+  .flex-menu {
+    display: none;
   }
 
 /* END MENU CODE */
@@ -282,4 +292,10 @@ main.page-body {
 
 .menubar a:hover {
     color: #50CE03;
+    font-size: 35px;
+  }
+
+  #mymenu img:hover {
+    width: 65px;
+    height: 65px;
   }
