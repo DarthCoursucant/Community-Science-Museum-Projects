@@ -111,3 +111,11 @@
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #50CE03;
 }
+
+.specifc-file-text:hover {
+    background-color: #fafabe;
+}
+
+.specifc-file-text-one:hover {
+    background-color: #fac898;
+}
