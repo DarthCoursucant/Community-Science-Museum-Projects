@@ -243,7 +243,7 @@ main.page-body {
 
 /* SEPCIAL EFFECTS */
 #footer-option-four a:hover {
-    color: #023288;
+    color: #2E7702;
     font-size: 25px;
 }
 
@@ -267,7 +267,7 @@ main.page-body {
     margin-left: 20px;
 }
 
-#footer-option-one h1:hover, #footer-option-one p:hover, #footer-option-two h1:hover, #footer-option-two p:hover {
+#footer-option-one h1:hover, #footer-option-one p:hover, #footer-option-two h1:hover, #footer-option-two p:hover, #footer-option-three h1:hover, #footer-option-three p:hover, #footer-option-three h2:hover, #footer-option-four h1:hover {
     color: #023288;
 }
 
