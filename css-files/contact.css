@@ -89,12 +89,27 @@ label {
 }
 
 #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact {
-    background-color: #ffffff;
     border-radius: 20px;
     border: 2px solid #000000;
     width: 400px;
     color: #000000;
     text-align: center;
+}
+
+#option-one-contact {
+  background-color: #E49BC4;
+}
+
+#phone-number-contact {
+  background-color: #F2D0A5;
+}
+
+#front-desk-contact {
+  background-color: #A0D9F3;
+}
+
+.last-option-contact {
+  background-color: #FBFAC8;
 }
 
 #option-one-contact h1, #phone-number-contact h1, #front-desk-contact h1, .last-option-contact h1 {
@@ -124,15 +139,22 @@ label {
 
 .faq-link-contact-page {
     width: 200px;
-    background-color: #C4FAF8;
+    box-shadow: 5px 5px 10px 5px #094CDB;
+    background-color: #023299;
     border-radius: 20px;
-    border: 2px solid #000000;
+    border: 2px solid #ffffff;
     margin-left: 100px;
 }
 
 .faq-link-contact-page a {
     text-align: center;
     text-decoration: none;
-    color: #FF0303;
+    color: #ffffff;
     font-size: 25px;
+}
+
+/* SPECIAL EFFECTS */
+.faq-link-contact-page:hover {
+  background-color: #2E7702;
+  box-shadow: 5px 5px 10px 5px #50CE03;
 }
