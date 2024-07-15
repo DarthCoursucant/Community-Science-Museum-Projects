@@ -1,5 +1,5 @@
 /* TEXT ALIGN: CENTER */
-.text, .formbutton, label, .contactform h1, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .faq-link-contact-page a, .hero-text, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
+.text, .formbutton, label, .contactform h1, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .faq-link-contact-page a, .hero-text, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header, #footer-option-one p, #footer-option-four p, #footer-option-two p, #footer-option-three p, #footer-option-four a {
     text-align: center;
   }
   /* END TEXT ALIGN: CENTER */
@@ -11,55 +11,55 @@
   /* END PADDING:10PX */
   
   /* FONT-SIZE: 30PX */
-  .contactform h1, #option-one-contact h1, #phone-number-contact h1, #front-desk-contact h1, .last-option-contact h1, .hero-text h2 {
+  .contactform h1, #option-one-contact h1, #phone-number-contact h1, #front-desk-contact h1, .last-option-contact h1, .hero-text h2, .menubar h1 {
     font-size: 30px;
   }
   /* END FONT-SIZE: 30PX */
   
   /* BORDER: 2PX SOLID BLACK */
-  .contactform, .checkoutform, input, textarea, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact {
+  .contactform, .checkoutform, input, textarea, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .button-header  {
     border: 2px solid #000000;
   }
   /* END BORDER: 2PX SOLID BLACK */
   
   /* COLOR: BLACK */
-  .contactform, .checkoutform, label, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, #option-one-contact a, .info-box h1:hover, .info-box p:hover, .info-box-one h1:hover, .info-box-one p:hover, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
+  .contactform, .checkoutform, label, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, #option-one-contact a, .info-box h1:hover, .info-box p:hover, .info-box-one h1:hover, .info-box-one p:hover, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .menubar h1, .menubar a, #footer-option-one h1, #footer-option-one p, #footer-option-two h1, #footer-option-two p, #footer-option-three h1, #footer-option-three p, #footer-option-four h1, #footer-option-four p, #footer-option-three h2 {
     color: #000000;
   }
   /* END COLOR: BLACK */
   
   /* COLOR: WHITE */
-  .faq-link-contact-page a, .formbutton a, .hero-text, .info-box p, .info-box-one p, .info-box h1, .info-box-one h1 {
+  .faq-link-contact-page a, .formbutton a, .hero-text, .info-box p, .info-box-one p, .info-box h1, .info-box-one h1, .explore-text h1, .explore-text-one h1, .explore-text p, .explore-text-one p, .button-header a, .button-header:hover {
     color: #ffffff;
   }
   /* END COLOR: WHITE */
   
   /* TEXT-DECORATION: NONE */
-  #option-one-contact a, .faq-link-contact-page a, .formbutton a {
+  #option-one-contact a, .faq-link-contact-page a, .formbutton a, .menubar a, .button-header a, #footer-option-two p, #footer-option-three p, #footer-option-four a {
     text-decoration: none;
   }
   /* END TEXT-DECORATION: NONE */
   
   /* BORDER: 2PX SOLID WHITE */
-  #option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover, .last-option-contact:hover, .faq-link-contact-page, .formbutton, .hero-image-container, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
+  #option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover, .last-option-contact:hover, .faq-link-contact-page, .formbutton, .hero-image-container, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header:hover {
     border: 2px solid #ffffff;
   }
   /* END BORDER: 2PX SOLID WHITE */
   
   /* FONT-SIZE: 25PX */
-  .formbutton a, .faq-link-contact-page a, label {
+  .formbutton a, .faq-link-contact-page a, label, .menubar a, #footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-four h1, #footer-option-three h2 {
     font-size: 25px;
   }
   /* END FONT-SIZE: 25PX */
   
   /* FONT-SIZE: 20PX */
-  #option-one-contact a, input, textarea, #phone-number-contact p, #front-desk-contact p, .last-option-contact p, .hero-text p {
+  #option-one-contact a, input, textarea, #phone-number-contact p, #front-desk-contact p, .last-option-contact p, .hero-text p, .menubar, .button-header a {
     font-size: 20px;
   }
   /* END FONT-SIZE: 20PX */
 
   /* BORDER-RADIUS: 20PX */
-  .hero-image-container, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
+  .hero-image-container, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header {
     border-radius: 20px;
   }
 
