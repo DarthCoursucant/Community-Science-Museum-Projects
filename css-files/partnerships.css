@@ -12,7 +12,6 @@
 }
 
 .parnterships-overview, .parnterships-overview-last {
-    display: flex;
     margin-top: 30px;
     margin-left: -15px;
 }
