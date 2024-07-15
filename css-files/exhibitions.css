@@ -15,15 +15,17 @@
 .exhibitions-one, .exhibitions-two, .exhibitions-three, .exhibition-four, .exhibitions-five, .exhibtions-six, .exhibtions-seven, .exhibtions-eight, .exhibitions-nine, .exhibitions-teen, .exhibition-eleven, .exhibition-twelve, .exhibition-thirten, .exhibition-fourteen, .exhibition-fifteen, .exhibition-sixteen, .exhibition-seventeen, .exhibition-eighteen, .exhibition-ninteen, .exhibition-twenty, .exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover, .exhibitions-three:hover, .exhibition-four:hover, .exhibtions-six:hover, .exhibtions-seven:hover, .exhibtions-eight:hover, .exhibitions-nine:hover, .exhibitions-teen:hover, .exhibition-eleven:hover, .exhibition-twelve:hover, .exhibition-thirten:hover, .exhibition-fourteen:hover, .exhibition-seventeen:hover, .exhibition-eighteen:hover, .exhibition-ninteen:hover, .exhibition-twenty:hover, .exhibitions-five:hover {
     margin-top: 50px;
 }
-/* MARGIN-TOP: 50PX */
+/* END MARGIN-TOP: 50PX */
+
+/* MARGIN-BOTTOM: 50PX*/
+.exhibition-twenty, .exhibitions-five {
+    margin-bottom: 50px;
+}
+/* END MARGIN-BOTTOM: 50PX*/
 
 .exhibitions-one, .exhibitions-two, .exhibitions-three, .exhibition-four, .exhibitions-five, .exhibtions-six, .exhibtions-seven, .exhibtions-eight, .exhibitions-nine, .exhibitions-teen, .exhibition-eleven, .exhibition-twelve, .exhibition-thirten, .exhibition-fourteen, .exhibition-fifteen, .exhibition-sixteen, .exhibition-seventeen, .exhibition-eighteen, .exhibition-ninteen, .exhibition-twenty {
     display: flex;
     margin-left: 200px;
-}
-
-.exhibition-twenty {
-    margin-bottom: 50px;
 }
 
 .info-box {
@@ -47,10 +49,6 @@
 h1 {
     font-size: 45px;
     text-align: center;
-}
-
-.exhibitions-five {
-    margin-bottom: 50px;
 }
 
 /* FOOTER */
