@@ -66,7 +66,6 @@ label {
 }
 
 #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact {
-    border-radius: 20px;
     width: 400px;
 }
 
