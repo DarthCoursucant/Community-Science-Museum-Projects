@@ -1,3 +1,16 @@
+/* WIDTH: 550PX & HEIGHT: 350PX*/
+.info-box, .info-box-one, .info-box-two, .image-box img {
+    width: 550px;
+    height: 350px;
+}
+/* END WIDTH: 550PX & HEIGHT: 350PX*/
+
+/* COLOR WHITE */
+.info-box p, .info-box-one p, .info-box h1, .info-box-one h1 {
+    color: #ffffff;
+}
+/* END COLOR WHITE */
+
 .exhibitions-one, .exhibitions-two, .exhibitions-three, .exhibition-four, .exhibitions-five, .exhibtions-six, .exhibtions-seven, .exhibtions-eight, .exhibitions-nine, .exhibitions-teen, .exhibition-eleven, .exhibition-twelve, .exhibition-thirten, .exhibition-fourteen, .exhibition-fifteen, .exhibition-sixteen, .exhibition-seventeen, .exhibition-eighteen, .exhibition-ninteen, .exhibition-twenty {
     display: flex;
     margin-left: 200px;
@@ -6,16 +19,6 @@
 
 .exhibition-twenty {
     margin-bottom: 50px;
-}
-
-.image-box img {
-    width: 550px;
-    height: 350px;
-}
-
-.info-box, .info-box-one, .info-box-two {
-    width: 550px;
-    height: 350px;
 }
 
 .info-box {
@@ -29,13 +32,11 @@
 .info-box p, .info-box-one p {
     font-size: 18px;
     padding: 0px 20px 0px 20px;
-    color: #ffffff;
 }
 
 .info-box h1, .info-box-one h1 {
     font-size: 30px;
     text-decoration: underline;
-    color: #ffffff;
 }
 
 h1 {
