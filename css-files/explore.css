@@ -13,31 +13,31 @@
 }
 
 .for-kids-section-explore-page {
-    background-color: #C4FAF8;
-    box-shadow: 5px 5px 10px 12px #FAFABE;
+    background-color: #023288;
     height: 500px;
+    margin-top: 50px;
 }
 
 .for-teachers-section-explore-page {
-    background-color: #F09EA7;
+    background-color: #2E7702;
     height: 300px;
-    box-shadow: 5px 5px 10px 12px #FAFABE;
 }
 
 .for-researchers-section-explore-page {
-    background-color: #C1EABC;
-    box-shadow: 5px 5px 10px 12px #FAFABE;
+    background-color: #023288;
     margin-bottom: 50px;
     height: 300px;
 }
 
 .explore-text h1, .explore-text-one h1 {
     font-size: 35px;
+    color: #ffffff;
 }
 
 .explore-text p, .explore-text-one p {
     font-size: 20px;
     width: 800px;
+    color: #ffffff;
 }
 
 .explore-text-one p {
@@ -77,4 +77,9 @@
 
 .explore-box-container {
     display: flex;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
 }
