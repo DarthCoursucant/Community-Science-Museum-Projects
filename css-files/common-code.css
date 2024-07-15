@@ -1,5 +1,5 @@
 /* TEXT ALIGN: CENTER */
-.text, .formbutton, label, .contactform h1, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .faq-link-contact-page a {
+.text, .formbutton, label, .contactform h1, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .faq-link-contact-page a, .hero-text {
     text-align: center;
   }
   /* END TEXT ALIGN: CENTER */
@@ -11,7 +11,7 @@
   /* END PADDING:10PX */
   
   /* FONT-SIZE: 30PX */
-  .contactform h1, #option-one-contact h1, #phone-number-contact h1, #front-desk-contact h1, .last-option-contact h1 {
+  .contactform h1, #option-one-contact h1, #phone-number-contact h1, #front-desk-contact h1, .last-option-contact h1, .hero-text h2 {
     font-size: 30px;
   }
   /* END FONT-SIZE: 30PX */
@@ -29,7 +29,7 @@
   /* END COLOR: BLACK */
   
   /* COLOR: WHITE */
-  .faq-link-contact-page a, .formbutton a  {
+  .faq-link-contact-page a, .formbutton a, .hero-text {
     color: #ffffff;
   }
   /* END COLOR: WHITE */
@@ -41,7 +41,7 @@
   /* END TEXT-DECORATION: NONE */
   
   /* BORDER: 2PX SOLID WHITE */
-  #option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover, .last-option-contact:hover, .faq-link-contact-page, .formbutton {
+  #option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover, .last-option-contact:hover, .faq-link-contact-page, .formbutton, .hero-image-container {
     border: 2px solid #ffffff;
   }
   /* END BORDER: 2PX SOLID WHITE */
@@ -53,7 +53,7 @@
   /* END FONT-SIZE: 25PX */
   
   /* FONT-SIZE: 20PX */
-  #option-one-contact a, input, textarea, #phone-number-contact p, #front-desk-contact p, .last-option-contact p {
+  #option-one-contact a, input, textarea, #phone-number-contact p, #front-desk-contact p, .last-option-contact p, .hero-text p {
     font-size: 20px;
   }
   /* END FONT-SIZE: 20PX */
