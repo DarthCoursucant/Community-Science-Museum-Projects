@@ -107,6 +107,13 @@ textarea {
     resize: none;
   }
 
-  h1 {
+h1 {
     text-align: center;
   }
+
+/* FOOTER */
+#footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-four h1 {
+    margin-left: 0px;
+}
+
+/* END FOOTER */
