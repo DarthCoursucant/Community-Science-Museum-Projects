@@ -29,7 +29,6 @@
 }
 
 .specifc-file-option-one, .specifc-file-option-two, .specifc-file-option-three, .specifc-file-option-four, .specifc-file-option-five, .specifc-file-option-six, .specifc-file-option-seven, .specifc-file-option-eight, .specific-file-option-nine, .specific-file-option-teen, .specific-file-option-eleven, .specific-file-option-twelve {
-    display: flex;
     margin-top: 50px;
     margin-left: 50px;
 }
