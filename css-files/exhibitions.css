@@ -46,3 +46,29 @@ h1 {
 .exhibitions-five {
     margin-bottom: 50px;
 }
+
+/* FOOTER */
+#footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-four h1 {
+    margin-left: 0px;
+}
+/* END FOOTER */
+
+/* SPECIAL EFFECTS */
+.info-box:hover {
+    background-color: #FFA854;
+}
+
+.info-box-one:hover {
+    background-color: #F36DC2;
+}
+
+.info-box h1:hover, .info-box p:hover, .info-box-one h1:hover, .info-box-one p:hover {
+    color: #000000;
+}
+
+.exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover {
+    box-shadow: 0px 0px 10px 12px #ffffff;
+    width: 1100px;
+    height: 350px;
+    margin-top: 50px;
+}
