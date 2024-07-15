@@ -57,21 +57,15 @@ main.page-body {
   
   .menubar a {
     padding: 8px 8px 8px 32px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #000000;
     display: block;
     transition: 0.3s;
   }
 
   .menubar h1 {
-    color: #000000;
-    font-size: 30px;
     margin: 50px 0px 30px 20px;
   }
   
   .menubar {
-    font-size: 20px;
     line-height: 22px;
   }
   
@@ -94,7 +88,7 @@ main.page-body {
 }
 
 .header-museum-name img {
-    width:400px;
+    width: 400px;
     height: 120px;
 }
 
@@ -120,19 +114,10 @@ main.page-body {
 .button-header {
     width: 160px;
     background-color: #CBB7ED;
-    border: 2px solid #000000;
     height: 45px;
-    border-radius: 20px;
-    text-align: center;
     margin-top: 40px;
     padding-top: 5px;
     margin-right: 40px;
-}
-
-.button-header a {
-    text-decoration: none;
-    color: #ffffff;
-    font-size: 23px;
 }
 
 /*  END HEADER CODE */
@@ -150,14 +135,6 @@ main.page-body {
     width: 400px;
 }
 
-#footer-option-one h1, #footer-option-one p, #footer-option-two h1, #footer-option-two p, #footer-option-three h1, #footer-option-three p, #footer-option-four h1, #footer-option-four p {
-    color: #000000;
-}
-
-#footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-four h1 {
-    font-size: 25px;
-}
-
 #footer-option-one h1 {
     margin-left: 70px;
 }
@@ -165,20 +142,16 @@ main.page-body {
 #footer-option-one p {
     width: 450px;
     font-size: 15px;
-    text-align: center;
 }
 
 #footer-option-four p {
     width: 270px;
     font-size: 15px;
-    text-align: center;
     margin-left: -10px;
 }
 
 #footer-option-two p, #footer-option-three p, #footer-option-four a {
     font-size: 15px;
-    text-align: center;
-    text-decoration: none;
 }
 
 #footer-option-four a {
@@ -239,8 +212,6 @@ main.page-body {
 }
 
 #footer-option-three h2 {
-    font-size: 25px;
-    color: #000000;
     margin-left: 70px;
 }
 
@@ -287,8 +258,6 @@ main.page-body {
 .button-header:hover {
     background-color: #023299;
     box-shadow: 5px 5px 10px 5px #094CDB;
-    color: #ffffff;
-    border: 2px solid #ffffff;
 }
 
 .menubar a:hover {
