@@ -1,15 +1,6 @@
-.visit-us-box-info {
-    display: flex;
-}
-
 .visit-us-map-image {
-    float: right;
     margin-left: 50px;
     margin-top: 30px;
-}
-
-#visit-us-text {
-    float: left;
 }
 
 #visit-us-text {
@@ -24,10 +15,6 @@
     background-color: #5B8BF1;
     box-shadow: 5px 5px 10px 10px #023299;
     margin-top: 50px;
-}
-
-.visit-us-more-info-buttons {
-    display: flex;
 }
 
 #openning-hours-box, #free-admision-box, #faq-questions-visit-us {
@@ -64,11 +51,6 @@
     background-color: #023299;
     width: 200px;
     margin-left: 100px;
-}
-
-#visit-us-faq-button a {
-    text-decoration: none;
-    color: #ffffff;
 }
 
 #openning-hours-box {
