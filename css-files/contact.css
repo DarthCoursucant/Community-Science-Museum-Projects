@@ -61,10 +61,6 @@ label {
     width: 300px;
 }
 
-.more-contact-option {
-    display: flex;
-}
-
 #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact {
     width: 400px;
 }
