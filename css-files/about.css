@@ -8,7 +8,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    border: 2px solid #ffffff;
 }
 
 .hero-image-container {
@@ -18,21 +17,11 @@
 }
 
 .hero-text {
-    color: #ffffff;
-    text-align: center;
     padding: 15px 40px 20px 40px;
 }
 
 .hero-text h1 {
     font-size: 35px;
-}
-
-.hero-text h2 {
-    font-size: 30px;
-}
-
-.hero-text p {
-    font-size: 20px;
 }
 
 /* SPECIAL EFFECTS */
