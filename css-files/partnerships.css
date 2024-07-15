@@ -1,25 +1,19 @@
 .partnerships-info-page {
     background-color: #c1eabc;
-    border-radius: 20px;
-    border: 2px solid black;
     width: 1000px;
     margin: 80px 0px 80px 270px;
 }
 .partnerships-info-page h1 {
-    text-align: center;
     font-size: 35px;
 }
 
 .partnerships-info-page p {
-    font-size: 20px;
     padding: 0px 30px 0px 30px;
 }
 
 .parnterships-overview, .parnterships-overview-last {
     display: flex;
-    font-size: 25px;
     margin-top: 30px;
-    text-align: center;
     margin-left: -15px;
 }
 
@@ -27,14 +21,7 @@
     margin-left: 50px;
 }
 
-#tesla-option a, #space-x-option a, #daily-wire-option a, #young-americas-foundation-option a, #republicans-comiite-option a, #nasa-option a, #greenpeace-option a, #apple-option a, #nfl-option a, #harvard-universtiy-option a, #yale-option a, #brown-option a, #tesla-fundation-option a, #archelogy-option a, #world-animal-protection-option a, #grail-option a, #formation-bio-option a, #end-point-option a, #forbes-option a, #microsoft-option a, #meta-option a, #samsung-option a, #sony-option a, #berkshire-hathaway-option a, #mckenson-corporation-option a, #occidental-petroleum-option a, #benchling-option a, #ubisoft-option a, #rockstar-games-option a, #varjo-option a, #niantic-option a, #github-option a, #warner-bros-option a, #disney-option a {
-    text-decoration: none;
-    color: #ffffff;
-}
-
 #young-americas-foundation-option, #tesla-option, #space-x-option, #republicans-comiite-option, #daily-wire-option, #nasa-option, #greenpeace-option, #tesla-fundation-option, #archelogy-option, #brown-option, #harvard-universtiy-option, #apple-option, #meta-option, #nfl-option, #yale-option, #berkshire-hathaway-option, #formation-bio-option, #ubisoft-option, #occidental-petroleum-option, #end-point-option, #world-animal-protection-option, #microsoft-option, #mckenson-corporation-option, #nfl-option, #forbes-option, #rockstar-games-option, #varjo-option, #benchling-option, #samsung-option, #niantic-option, #nasa-option, #github-option, #sony-option, #warner-bros-option, #disney-option {
-    border-radius: 20px;
-    border: 2px solid black;
     height: 40px;
 }
 
@@ -97,7 +84,6 @@
 #young-americas-foundation-option:hover, #tesla-option:hover, #space-x-option:hover, #republicans-comiite-option:hover, #daily-wire-option:hover, #nasa-option:hover, #greenpeace-option:hover, #tesla-fundation-option:hover, #apple-option:hover, #harvard-universtiy-option:hover, #meta-option:hover, #archelogy-option:hover, #nfl-option:hover, #yale-option:hover, #samsung-option:hover, #brown-option:hover, #world-animal-protection-option:hover, #grail-option:hover, #microsoft-option:hover, #berkshire-hathaway-option:hover, #forbes-option:hover, #formation-bio-option:hover, #occidental-petroleum-option:hover, #mckenson-corporation-option:hover, #benchling-option:hover, #end-point-option:hover, #varjo-option:hover, #sony-option:hover, #ubisoft-option:hover, #niantic-option:hover, #rockstar-games-option:hover, #github-option:hover, #disney-option:hover, #warner-bros-option:hover {
     background-color: #826EB0;
     box-shadow: 5px 5px 10px 5px #5D4B86;
-    border: 2px solid #ffffff;
     padding-bottom: 10px;
     margin-top: -10px;
 }
