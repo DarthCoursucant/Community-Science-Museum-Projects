@@ -83,3 +83,9 @@ h1 {
     font-size: 35px;
     text-align: center;
 }
+
+/* SPECIAL EFFECTS*/
+.for-kids-section-explore-page:hover, .for-teachers-section-explore-page:hover, .for-researchers-section-explore-page:hover {
+    background-color: #826EB0;
+    box-shadow: 5px 5px 10px 15px #5D4B86;
+}
