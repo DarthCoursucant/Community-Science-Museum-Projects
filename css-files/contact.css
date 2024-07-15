@@ -52,6 +52,13 @@
 }
 /* END FONT-SIZE: 25PX */
 
+/* FONT-SIZE: 20PX */
+#option-one-contact a, input, textarea, #phone-number-contact p, #front-desk-contact p, .last-option-contact p {
+  font-size: 20px;
+}
+
+/* END FONT-SIZE: 20PX */
+
 .text {
     margin-left: -20px;
     padding-top: 10%;
@@ -87,7 +94,6 @@ label::after {
   }
 
 input, textarea {
-  font-size: 20px;
   width: 400px;
   box-sizing: border-box;
   outline: none;
@@ -142,12 +148,7 @@ label {
 }
 
 #phone-number-contact p, #front-desk-contact p, .last-option-contact p {
-    font-size: 20px;
     padding: 0px 20px 0px 20px;
-}
-
-#option-one-contact a {
-    font-size: 20px;
 }
 
 #option-one-contact, #phone-number-contact, #front-desk-contact {
