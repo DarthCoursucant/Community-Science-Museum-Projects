@@ -22,6 +22,17 @@
 }
 /* END BORDER: 2PX SOLID BLACK */
 
+/* COLOR: BLACK */
+.contactform, .checkoutform, label, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, #option-one-contact a {
+  color: #000000;
+}
+/* END COLOR: BLACK */
+
+/* COLOR: WHITE */
+.faq-link-contact-page a, .formbutton a  {
+  color: #ffffff;
+}
+
 .text {
     margin-left: -20px;
     padding-top: 10%;
@@ -29,7 +40,6 @@
 
 .contactform, .checkoutform {
     background-color: #c1eabc;
-    color: #000000;
     width: 750px;
     border-radius: 1em;
     box-shadow: 0px 0px 10px 10px #626592;
@@ -86,12 +96,10 @@ textarea {
 
 .formbutton a {
     text-decoration: none;
-    color: #ffffff;
     font-size: 25px;
 }
 
 label {
-    color: #000;
     font-size: 25px;
     width: 300px;
 }
@@ -103,7 +111,6 @@ label {
 #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact {
     border-radius: 20px;
     width: 400px;
-    color: #000000;
 }
 
 #option-one-contact {
@@ -129,7 +136,6 @@ label {
 
 #option-one-contact a {
     text-decoration: none;
-    color: #000000;
     font-size: 20px;
 }
 
@@ -154,7 +160,6 @@ label {
 
 .faq-link-contact-page a {
     text-decoration: none;
-    color: #ffffff;
     font-size: 25px;
 }
 
