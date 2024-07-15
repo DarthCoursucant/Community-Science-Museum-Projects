@@ -45,7 +45,6 @@ main.page-body {
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 50px;
-    text-align: center;
   }
 
   #mymenu img {
@@ -141,12 +140,10 @@ main.page-body {
 
 #footer-option-one p {
     width: 450px;
-    font-size: 15px;
 }
 
 #footer-option-four p {
     width: 270px;
-    font-size: 15px;
     margin-left: -10px;
 }
 
