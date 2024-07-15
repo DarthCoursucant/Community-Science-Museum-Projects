@@ -84,6 +84,11 @@ h1 {
     text-align: center;
 }
 
+/* FOOTER */
+#footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-four h1 {
+    margin-left: 0px;
+}
+
 /* SPECIAL EFFECTS*/
 .for-kids-section-explore-page:hover, .for-teachers-section-explore-page:hover, .for-researchers-section-explore-page:hover {
     background-color: #826EB0;
