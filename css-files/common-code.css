@@ -1,5 +1,5 @@
 /* TEXT ALIGN: CENTER */
-.text, .formbutton, label, .contactform h1, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .faq-link-contact-page a, .hero-text {
+.text, .formbutton, label, .contactform h1, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .faq-link-contact-page a, .hero-text, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
     text-align: center;
   }
   /* END TEXT ALIGN: CENTER */
@@ -23,13 +23,13 @@
   /* END BORDER: 2PX SOLID BLACK */
   
   /* COLOR: BLACK */
-  .contactform, .checkoutform, label, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, #option-one-contact a {
+  .contactform, .checkoutform, label, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, #option-one-contact a, .info-box h1:hover, .info-box p:hover, .info-box-one h1:hover, .info-box-one p:hover, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
     color: #000000;
   }
   /* END COLOR: BLACK */
   
   /* COLOR: WHITE */
-  .faq-link-contact-page a, .formbutton a, .hero-text {
+  .faq-link-contact-page a, .formbutton a, .hero-text, .info-box p, .info-box-one p, .info-box h1, .info-box-one h1 {
     color: #ffffff;
   }
   /* END COLOR: WHITE */
@@ -41,7 +41,7 @@
   /* END TEXT-DECORATION: NONE */
   
   /* BORDER: 2PX SOLID WHITE */
-  #option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover, .last-option-contact:hover, .faq-link-contact-page, .formbutton, .hero-image-container {
+  #option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover, .last-option-contact:hover, .faq-link-contact-page, .formbutton, .hero-image-container, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
     border: 2px solid #ffffff;
   }
   /* END BORDER: 2PX SOLID WHITE */
@@ -57,3 +57,32 @@
     font-size: 20px;
   }
   /* END FONT-SIZE: 20PX */
+
+  /* BORDER-RADIUS: 20PX */
+  .hero-image-container, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
+    border-radius: 20px;
+  }
+
+  /* HEIGHT: 350PX */
+.info-box, .info-box-one, .info-box-two, .image-box img, .exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover, .exhibitions-three:hover, .exhibition-four:hover, .exhibtions-six:hover, .exhibtions-seven:hover, .exhibtions-eight:hover, .exhibitions-nine:hover, .exhibitions-teen:hover, .exhibition-eleven:hover, .exhibition-twelve:hover, .exhibition-thirten:hover, .exhibition-fourteen:hover, .exhibition-seventeen:hover, .exhibition-eighteen:hover, .exhibition-ninteen:hover, .exhibition-twenty:hover, .exhibitions-five:hover {
+    height: 350px;
+}
+/* END HEIGHT: 350PX */
+
+/* WIDTH: 550PX */
+.info-box, .info-box-one, .info-box-two, .image-box img {
+    width: 550px;
+}
+/* END WIDTH: 550PX */
+
+/* MARGIN-TOP: 50PX */
+.exhibitions-one, .exhibitions-two, .exhibitions-three, .exhibition-four, .exhibitions-five, .exhibtions-six, .exhibtions-seven, .exhibtions-eight, .exhibitions-nine, .exhibitions-teen, .exhibition-eleven, .exhibition-twelve, .exhibition-thirten, .exhibition-fourteen, .exhibition-fifteen, .exhibition-sixteen, .exhibition-seventeen, .exhibition-eighteen, .exhibition-ninteen, .exhibition-twenty, .exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover, .exhibitions-three:hover, .exhibition-four:hover, .exhibtions-six:hover, .exhibtions-seven:hover, .exhibtions-eight:hover, .exhibitions-nine:hover, .exhibitions-teen:hover, .exhibition-eleven:hover, .exhibition-twelve:hover, .exhibition-thirten:hover, .exhibition-fourteen:hover, .exhibition-seventeen:hover, .exhibition-eighteen:hover, .exhibition-ninteen:hover, .exhibition-twenty:hover, .exhibitions-five:hover {
+    margin-top: 50px;
+}
+/* END MARGIN-TOP: 50PX */
+
+/* MARGIN-BOTTOM: 50PX*/
+.exhibition-twenty, .exhibitions-five {
+    margin-bottom: 50px;
+}
+/* END MARGIN-BOTTOM: 50PX*/
