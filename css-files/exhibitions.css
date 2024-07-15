@@ -11,10 +11,15 @@
 }
 /* END COLOR WHITE */
 
+/* MARGIN-TOP: 50PX */
+.exhibitions-one, .exhibitions-two, .exhibitions-three, .exhibition-four, .exhibitions-five, .exhibtions-six, .exhibtions-seven, .exhibtions-eight, .exhibitions-nine, .exhibitions-teen, .exhibition-eleven, .exhibition-twelve, .exhibition-thirten, .exhibition-fourteen, .exhibition-fifteen, .exhibition-sixteen, .exhibition-seventeen, .exhibition-eighteen, .exhibition-ninteen, .exhibition-twenty, .exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover, .exhibitions-three:hover, .exhibition-four:hover, .exhibtions-six:hover, .exhibtions-seven:hover, .exhibtions-eight:hover, .exhibitions-nine:hover, .exhibitions-teen:hover, .exhibition-eleven:hover, .exhibition-twelve:hover, .exhibition-thirten:hover, .exhibition-fourteen:hover, .exhibition-seventeen:hover, .exhibition-eighteen:hover, .exhibition-ninteen:hover, .exhibition-twenty:hover, .exhibitions-five:hover {
+    margin-top: 50px;
+}
+/* MARGIN-TOP: 50PX */
+
 .exhibitions-one, .exhibitions-two, .exhibitions-three, .exhibition-four, .exhibitions-five, .exhibtions-six, .exhibtions-seven, .exhibtions-eight, .exhibitions-nine, .exhibitions-teen, .exhibition-eleven, .exhibition-twelve, .exhibition-thirten, .exhibition-fourteen, .exhibition-fifteen, .exhibition-sixteen, .exhibition-seventeen, .exhibition-eighteen, .exhibition-ninteen, .exhibition-twenty {
     display: flex;
     margin-left: 200px;
-    margin-top: 50px;
 }
 
 .exhibition-twenty {
@@ -71,5 +76,4 @@ h1 {
     box-shadow: 0px 0px 10px 12px #ffffff;
     width: 1100px;
     height: 350px;
-    margin-top: 50px;
 }
