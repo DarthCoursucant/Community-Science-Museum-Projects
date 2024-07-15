@@ -70,4 +70,13 @@
 .active, .unfold-question-thing:hover {
     background-color: #F8C8DC;
     border: 2px solid #000000;
+    box-shadow: 5px -5px 25px 10px #FFF2B2;
+}
+
+.unfold-question-thing-content-text:hover {
+    box-shadow: 5px 5px 10px 10px #FFF2B2;
+}
+
+.text-info-box h1:hover, .text-info-box p:hover {
+    color: #023288;
 }
