@@ -1,9 +1,14 @@
-/* WIDTH: 550PX & HEIGHT: 350PX*/
-.info-box, .info-box-one, .info-box-two, .image-box img {
-    width: 550px;
+/* HEIGHT: 350PX */
+.info-box, .info-box-one, .info-box-two, .image-box img, .exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover, .exhibitions-three:hover, .exhibition-four:hover, .exhibtions-six:hover, .exhibtions-seven:hover, .exhibtions-eight:hover, .exhibitions-nine:hover, .exhibitions-teen:hover, .exhibition-eleven:hover, .exhibition-twelve:hover, .exhibition-thirten:hover, .exhibition-fourteen:hover, .exhibition-seventeen:hover, .exhibition-eighteen:hover, .exhibition-ninteen:hover, .exhibition-twenty:hover, .exhibitions-five:hover {
     height: 350px;
 }
-/* END WIDTH: 550PX & HEIGHT: 350PX*/
+/* END HEIGHT: 350PX */
+
+/* WIDTH: 550PX */
+.info-box, .info-box-one, .info-box-two, .image-box img {
+    width: 550px;
+}
+/* END WIDTH: 550PX */
 
 /* COLOR WHITE */
 .info-box p, .info-box-one p, .info-box h1, .info-box-one h1 {
@@ -73,5 +78,4 @@ h1 {
 .exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover, .exhibitions-three:hover, .exhibition-four:hover, .exhibtions-six:hover, .exhibtions-seven:hover, .exhibtions-eight:hover, .exhibitions-nine:hover, .exhibitions-teen:hover, .exhibition-eleven:hover, .exhibition-twelve:hover, .exhibition-thirten:hover, .exhibition-fourteen:hover, .exhibition-seventeen:hover, .exhibition-eighteen:hover, .exhibition-ninteen:hover, .exhibition-twenty:hover, .exhibitions-five:hover {
     box-shadow: 0px 0px 10px 12px #ffffff;
     width: 1100px;
-    height: 350px;
 }
