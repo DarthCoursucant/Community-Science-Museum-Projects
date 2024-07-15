@@ -1,7 +1,6 @@
 .support-image img {
     width: 400px;
     height: 250px;
-    border-radius: 20px;
 }
 
 .support-image {
@@ -12,9 +11,7 @@
 .support-us-option, .volunteer-option, .interships-option {
     width: 1000px;
     margin-left: 300px;
-    border: 2px solid #ffffff;
     margin-top: 50px;
-    border-radius: 20px;
     height: 650px;
 }
 
@@ -30,28 +27,17 @@
     background-color: #c1eabc;
 }
 
-.interships-option {
-    margin-bottom: 50px;
-}
-
 .support-text h1 {
     font-size: 35px;
-    color: #000000;
-    text-align: center;
 }
 
 .support-text p {
-    font-size: 20px;
-    color: #000000;
     padding: 0px 50px 0px 50px;
 }
 
 .support-button, .support-button-form {
     background-color: #023299;
     box-shadow: 5px 5px 10px 5px #094CDB;
-    text-align: center;
-    border: 2px solid #ffffff;
-    border-radius: 20px;
     width: 550px;
     padding: 5px 0px 10px 0px;
 }
@@ -65,8 +51,6 @@
 }
 
 .support-button a, .support-button-form a {
-    text-decoration: none;
-    color: #ffffff;
     font-size: 22px;
 }
 
