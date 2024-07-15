@@ -13,11 +13,6 @@
     margin-top: -38px;
 }
 
-.hero-text {
-    color: #ffffff;
-    text-align: center;
-}
-
 .hero-text h1 {
     font-size: 45px;
     padding-top: 30px;
@@ -28,16 +23,9 @@
 .hero-image-button {
     background-color: #023299;
     width: 530px;
-    border-radius: 20px;
-    border: 2px solid #ffffff;
     margin-left: 500px;
     box-shadow: 5px 5px 10px 5px #094CDB;
     margin-top: 40px;
-}
-
-.hero-image-button a {
-    text-decoration: none;
-    color: #ffffff;
 }
 
 .specifc-file-option-one, .specifc-file-option-two, .specifc-file-option-three, .specifc-file-option-four, .specifc-file-option-five, .specifc-file-option-six, .specifc-file-option-seven, .specifc-file-option-eight, .specific-file-option-nine, .specific-file-option-teen, .specific-file-option-eleven, .specific-file-option-twelve {
@@ -49,8 +37,6 @@
 #specifc-file-image img {
     height: 350px;
     width: 700px;
-    border-radius: 20px;
-    border: 2px solid snow;
 }
 
 .specifc-file-option-eight {
@@ -60,8 +46,6 @@
 .specifc-file-text, .specifc-file-text-one {
     height: 350px;
     width: 700px;
-    border-radius: 20px;
-    border: 2px solid snow;
 }
 
 .specifc-file-text {
@@ -72,16 +56,8 @@
     background-color: #F8C8DC;
 }
 
-#specifc-file-header h1 {
-    font-size: 30px;
-    text-align: center;
-    color: #000000;
-}
-
 #specific-file-info {
-    text-align: center;
     font-size: 17px;
-    color: #000000;
 }
 
 #specific-file-info p {
@@ -91,7 +67,6 @@
 
 .header-of-specific-page h1 {
     font-size: 40px;
-    color: #000000;
     margin-left: 400px;
     margin-top: 100px;
 }
@@ -102,7 +77,6 @@
 
 #specific-file-info a {
     color: #FF0303;
-    text-decoration: none;
 }
 
 /* SPECIAL EFFECTS */
