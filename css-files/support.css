@@ -100,9 +100,6 @@ textarea {
     width: 400px;
     box-sizing: border-box;
     outline: none;
-  }
-  
-textarea {
     vertical-align: middle;
     height: 30px;
     resize: vertical;
@@ -128,4 +125,14 @@ h1 {
 
 .volunteer-option:hover, .support-us-option:hover, .interships-option:hover {
     box-shadow: 5px 5px 10px 15px #ffffff;
+}
+
+input:hover {
+    width: 40px;
+    height: 40px;
+}
+
+textarea:hover {
+    width: 500px;
+    height: 80px;
 }
