@@ -1,9 +1,5 @@
 .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
     width: 1200px;
-    border-radius: 20px;
-    border: 2px solid #ffffff;
-    color: #000000;
-    text-align: center;
     margin-top: 30px;
     margin-left: 160px;
 }
