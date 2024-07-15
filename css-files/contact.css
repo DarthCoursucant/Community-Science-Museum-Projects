@@ -4,6 +4,24 @@
 }
 /* END TEXT ALIGN: CENTER */
 
+/* PADDING:10PX */
+.contactform, .checkoutform, ul {
+  padding: 10px;
+}
+/* END PADDING:10PX */
+
+/* FONT-SIZE: 30PX */
+.contactform h1, #option-one-contact h1, #phone-number-contact h1, #front-desk-contact h1, .last-option-contact h1 {
+  font-size: 30px;
+}
+/* END FONT-SIZE: 30PX */
+
+/* BORDER: 2PX SOLID BLACK */
+.contactform, .checkoutform, input, textarea, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact {
+  border: 2px solid #000000;
+}
+/* END BORDER: 2PX SOLID BLACK */
+
 .text {
     margin-left: -20px;
     padding-top: 10%;
@@ -13,8 +31,6 @@
     background-color: #c1eabc;
     color: #000000;
     width: 750px;
-    padding: 10px;
-    border: 2px solid #000000;
     border-radius: 1em;
     box-shadow: 0px 0px 10px 10px #626592;
   }
@@ -27,13 +43,8 @@
     margin: 20px;
   }
 
-.contactform h1 {
-    font-size: 30px;
-  }
-
 ul {
     list-style: none;
-    padding: 10px;
     margin: 10px;
   }
   
@@ -46,11 +57,10 @@ label::after {
     content: ":";
   }
 
-input,textarea {
+input, textarea {
   font-size: 20px;
   width: 400px;
   box-sizing: border-box;
-  border: 2px solid #000000;
   outline: none;
   background-color: #ffffff;
 }
@@ -92,7 +102,6 @@ label {
 
 #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact {
     border-radius: 20px;
-    border: 2px solid #000000;
     width: 400px;
     color: #000000;
 }
@@ -111,10 +120,6 @@ label {
 
 .last-option-contact {
   background-color: #FBFAC8;
-}
-
-#option-one-contact h1, #phone-number-contact h1, #front-desk-contact h1, .last-option-contact h1 {
-    font-size: 30px;
 }
 
 #phone-number-contact p, #front-desk-contact p, .last-option-contact p {
