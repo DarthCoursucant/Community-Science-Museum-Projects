@@ -110,3 +110,12 @@
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #50CE03;
 }
+
+.visit-us-box-one:hover {
+    background-color: #8ADF56;
+    box-shadow: 5px 5px 10px 10px #2E7702;
+}
+
+#visit-us-text h1:hover, #visit-us-text p:hover {
+    color: red;
+}
