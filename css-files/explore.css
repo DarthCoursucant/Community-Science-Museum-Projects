@@ -56,20 +56,14 @@
 }
 
 .explore-image, .explore-image-two {
-    float: left;
     margin-left: 20px;
     margin-top: 20px;
 }
 
 .explore-image-one {
-    float: right;
     margin-right: 20px;
     margin-top: 20px;
     margin-left: 80px;
-}
-
-.explore-box-container {
-    display: flex;
 }
 
 h1 {
