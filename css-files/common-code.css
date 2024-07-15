@@ -1,5 +1,5 @@
 /* TEXT ALIGN: CENTER */
-.text, .formbutton, label, .contactform h1, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .faq-link-contact-page a, .hero-text, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header, #footer-option-one p, #footer-option-four p, #footer-option-two p, #footer-option-three p, #footer-option-four a, .menubar, .hero-text, #specifc-file-header h1, #specific-file-info {
+.text, .formbutton, label, .contactform h1, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .faq-link-contact-page a, .hero-text, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header, #footer-option-one p, #footer-option-four p, #footer-option-two p, #footer-option-three p, #footer-option-four a, .menubar, .hero-text, #specifc-file-header h1, #specific-file-info, .partnerships-info-page h1, .parnterships-overview, .parnterships-overview-last {
     text-align: center;
   }
   /* END TEXT ALIGN: CENTER */
@@ -17,7 +17,7 @@
   /* END FONT-SIZE: 30PX */
   
   /* BORDER: 2PX SOLID BLACK */
-  .contactform, .checkoutform, input, textarea, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .button-header  {
+  .contactform, .checkoutform, input, textarea, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .button-header, .partnerships-info-page, #young-americas-foundation-option, #tesla-option, #space-x-option, #republicans-comiite-option, #daily-wire-option, #nasa-option, #greenpeace-option, #tesla-fundation-option, #archelogy-option, #brown-option, #harvard-universtiy-option, #apple-option, #meta-option, #nfl-option, #yale-option, #berkshire-hathaway-option, #formation-bio-option, #ubisoft-option, #occidental-petroleum-option, #end-point-option, #world-animal-protection-option, #microsoft-option, #mckenson-corporation-option, #nfl-option, #forbes-option, #rockstar-games-option, #varjo-option, #benchling-option, #samsung-option, #niantic-option, #nasa-option, #github-option, #sony-option, #warner-bros-option, #disney-option  {
     border: 2px solid #000000;
   }
   /* END BORDER: 2PX SOLID BLACK */
@@ -29,37 +29,37 @@
   /* END COLOR: BLACK */
   
   /* COLOR: WHITE */
-  .faq-link-contact-page a, .formbutton a, .hero-text, .info-box p, .info-box-one p, .info-box h1, .info-box-one h1, .explore-text h1, .explore-text-one h1, .explore-text p, .explore-text-one p, .button-header a, .button-header:hover, .hero-text, .hero-image-button a {
+  .faq-link-contact-page a, .formbutton a, .hero-text, .info-box p, .info-box-one p, .info-box h1, .info-box-one h1, .explore-text h1, .explore-text-one h1, .explore-text p, .explore-text-one p, .button-header a, .button-header:hover, .hero-text, .hero-image-button a, #tesla-option a, #space-x-option a, #daily-wire-option a, #young-americas-foundation-option a, #republicans-comiite-option a, #nasa-option a, #greenpeace-option a, #apple-option a, #nfl-option a, #harvard-universtiy-option a, #yale-option a, #brown-option a, #tesla-fundation-option a, #archelogy-option a, #world-animal-protection-option a, #grail-option a, #formation-bio-option a, #end-point-option a, #forbes-option a, #microsoft-option a, #meta-option a, #samsung-option a, #sony-option a, #berkshire-hathaway-option a, #mckenson-corporation-option a, #occidental-petroleum-option a, #benchling-option a, #ubisoft-option a, #rockstar-games-option a, #varjo-option a, #niantic-option a, #github-option a, #warner-bros-option a, #disney-option a {
     color: #ffffff;
   }
   /* END COLOR: WHITE */
   
   /* TEXT-DECORATION: NONE */
-  #option-one-contact a, .faq-link-contact-page a, .formbutton a, .menubar a, .button-header a, #footer-option-two p, #footer-option-three p, #footer-option-four a, .hero-image-button a, #specific-file-info a {
+  #option-one-contact a, .faq-link-contact-page a, .formbutton a, .menubar a, .button-header a, #footer-option-two p, #footer-option-three p, #footer-option-four a, .hero-image-button a, #specific-file-info a, #tesla-option a, #space-x-option a, #daily-wire-option a, #young-americas-foundation-option a, #republicans-comiite-option a, #nasa-option a, #greenpeace-option a, #apple-option a, #nfl-option a, #harvard-universtiy-option a, #yale-option a, #brown-option a, #tesla-fundation-option a, #archelogy-option a, #world-animal-protection-option a, #grail-option a, #formation-bio-option a, #end-point-option a, #forbes-option a, #microsoft-option a, #meta-option a, #samsung-option a, #sony-option a, #berkshire-hathaway-option a, #mckenson-corporation-option a, #occidental-petroleum-option a, #benchling-option a, #ubisoft-option a, #rockstar-games-option a, #varjo-option a, #niantic-option a, #github-option a, #warner-bros-option a, #disney-option a {
     text-decoration: none;
   }
   /* END TEXT-DECORATION: NONE */
   
   /* BORDER: 2PX SOLID WHITE */
-  #option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover, .last-option-contact:hover, .faq-link-contact-page, .formbutton, .hero-image-container, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header:hover, .hero-image-button, #specifc-file-image img, .specifc-file-text, .specifc-file-text-one {
+  #option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover, .last-option-contact:hover, .faq-link-contact-page, .formbutton, .hero-image-container, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header:hover, .hero-image-button, #specifc-file-image img, .specifc-file-text, .specifc-file-text-one, #young-americas-foundation-option:hover, #tesla-option:hover, #space-x-option:hover, #republicans-comiite-option:hover, #daily-wire-option:hover, #nasa-option:hover, #greenpeace-option:hover, #tesla-fundation-option:hover, #apple-option:hover, #harvard-universtiy-option:hover, #meta-option:hover, #archelogy-option:hover, #nfl-option:hover, #yale-option:hover, #samsung-option:hover, #brown-option:hover, #world-animal-protection-option:hover, #grail-option:hover, #microsoft-option:hover, #berkshire-hathaway-option:hover, #forbes-option:hover, #formation-bio-option:hover, #occidental-petroleum-option:hover, #mckenson-corporation-option:hover, #benchling-option:hover, #end-point-option:hover, #varjo-option:hover, #sony-option:hover, #ubisoft-option:hover, #niantic-option:hover, #rockstar-games-option:hover, #github-option:hover, #disney-option:hover, #warner-bros-option:hover  {
     border: 2px solid #ffffff;
   }
   /* END BORDER: 2PX SOLID WHITE */
   
   /* FONT-SIZE: 25PX */
-  .formbutton a, .faq-link-contact-page a, label, .menubar a, #footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-four h1, #footer-option-three h2 {
+  .formbutton a, .faq-link-contact-page a, label, .menubar a, #footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-four h1, #footer-option-three h2, .parnterships-overview, .parnterships-overview-last {
     font-size: 25px;
   }
   /* END FONT-SIZE: 25PX */
   
   /* FONT-SIZE: 20PX */
-  #option-one-contact a, input, textarea, #phone-number-contact p, #front-desk-contact p, .last-option-contact p, .hero-text p, .menubar, .button-header a, .explore-text p, .explore-text-one p {
+  #option-one-contact a, input, textarea, #phone-number-contact p, #front-desk-contact p, .last-option-contact p, .hero-text p, .menubar, .button-header a, .explore-text p, .explore-text-one p, .partnerships-info-page p {
     font-size: 20px;
   }
   /* END FONT-SIZE: 20PX */
 
   /* BORDER-RADIUS: 20PX */
-  .hero-image-container, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header, .hero-image-button, #specifc-file-image img, .specifc-file-text, .specifc-file-text-one {
+  .hero-image-container, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header, .hero-image-button, #specifc-file-image img, .specifc-file-text, .specifc-file-text-one, .partnerships-info-page, #young-americas-foundation-option, #tesla-option, #space-x-option, #republicans-comiite-option, #daily-wire-option, #nasa-option, #greenpeace-option, #tesla-fundation-option, #archelogy-option, #brown-option, #harvard-universtiy-option, #apple-option, #meta-option, #nfl-option, #yale-option, #berkshire-hathaway-option, #formation-bio-option, #ubisoft-option, #occidental-petroleum-option, #end-point-option, #world-animal-protection-option, #microsoft-option, #mckenson-corporation-option, #nfl-option, #forbes-option, #rockstar-games-option, #varjo-option, #benchling-option, #samsung-option, #niantic-option, #nasa-option, #github-option, #sony-option, #warner-bros-option, #disney-option {
     border-radius: 20px;
   }
 
