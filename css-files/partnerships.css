@@ -59,10 +59,6 @@
     width: 250px;
 }
 
-#brown-option, #berkshire-hathaway-option, #occidental-petroleum-option, #mckenson-corporation-option {
-    width: 300px;
-}
-
 #young-americas-foundation-option, #tesla-fundation-option, #world-animal-protection-option {
     width: 350px;
 }
@@ -82,10 +78,6 @@
 
 #young-americas-foundation-option:hover, #world-animal-protection-option:hover {
     width: 450px;
-}
-
-#yale-option:hover, #brown-option:hover, #formation-bio-option:hover, #end-point-option:hover, #varjo-option:hover, #rockstar-games-option:hover {
-    width: 300px;
 }
 
 #daily-wire-option:hover, #greenpeace-option:hover, #microsoft-option:hover, #benchling-option:hover, #ubisoft-option:hover, #niantic-option:hover, #warner-bros-option:hover {
