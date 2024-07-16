@@ -24,7 +24,7 @@
   }
 
   /* FONT-SIZE: 35PX */
-  #text-boxes-visit-us h1, .explore-text h1, .explore-text-one h1, .partnerships-info-page h1, .text-info-box h1, .support-text h1, #hero-text h1 {
+  #text-boxes-visit-us h1, .explore-text h1, .explore-text-one h1, .partnerships-info-page h1, .text-info-box h1, .support-text h1, #hero-text h1, .menubar h1 {
     font-size: 35px;
   }
   
@@ -129,6 +129,6 @@
 }
 
 /* FONT-FAMILY: PLAYWRITE HR */
-.header-of-specific-page h1, .exhibition-header h1, #donation-form-section h1, .support-text h1, .support-button a, .support-button-form a, .hero-image-button a, .button-header a {
+.header-of-specific-page h1, .exhibition-header h1, #donation-form-section h1, .support-text h1, .support-button a, .support-button-form a, .hero-image-button a, .button-header a, .menubar h1, #footer-option-four a {
   font-family: "Playwrite HR", cursive;
 }
