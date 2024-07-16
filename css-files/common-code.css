@@ -135,5 +135,13 @@
 
 /* HOVER FONT COLOR*/
 #hero-text h1:hover, #hero-text p:hover, #hero-text h2:hover, .explore-text h1:hover, .explore-text p:hover, .explore-text-one h1:hover, .explore-text-one p:hover, .text-info-box h1:hover, .text-info-box p:hover {
-  color: #50CE03;;
+  color: #50CE03;
+}
+
+/* HERO IMAGE */
+.hero-image-image, .hero-image-container, .hero-image-donation, .hero-image-form {
+  background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
