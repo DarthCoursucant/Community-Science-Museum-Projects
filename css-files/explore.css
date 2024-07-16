@@ -65,8 +65,16 @@
 }
 
 /* FOOTER */
-#footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-four h1 {
+#footer-option-four h1 {
     margin-left: 0px;
+}
+
+#footer-option-one h1 {
+    margin-left: 50px;
+}
+
+#footer-option-two h1 {
+    margin-left: 40px;
 }
 
 /* END FOOTER */
