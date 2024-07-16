@@ -83,7 +83,6 @@ main.page-body {
 
 /* HEADER CODE */
 .header-museum-name img {
-    width: 400px;
     height: 120px;
 }
 
@@ -118,10 +117,6 @@ main.page-body {
 /*  END HEADER CODE */
 
 /* FOOTER CODE */
-#footer-option-two, #footer-option-four {
-    width: 400px;
-}
-
 #footer-option-one h1 {
     margin-left: 70px;
 }
