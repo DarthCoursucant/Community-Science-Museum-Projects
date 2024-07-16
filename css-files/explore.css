@@ -59,9 +59,9 @@
     margin-left: 80px;
 }
 
-h1 {
+#header-explore-paht h1 {
     font-size: 45px;
-    text-align: center;
+    margin-left: 30px;
 }
 
 /* FOOTER */
