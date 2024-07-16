@@ -51,14 +51,6 @@
     width: 150px;
 }
 
-#daily-wire-option, #greenpeace-option, #formation-bio-option, #warner-bros-option {
-    width: 200px;
-}
-
-#harvard-universtiy-option, #yale-option, #end-point-option, #rockstar-games-option, #varjo-option {
-    width: 250px;
-}
-
 #young-americas-foundation-option, #tesla-fundation-option, #world-animal-protection-option {
     width: 350px;
 }
@@ -78,14 +70,6 @@
 
 #young-americas-foundation-option:hover, #world-animal-protection-option:hover {
     width: 450px;
-}
-
-#daily-wire-option:hover, #greenpeace-option:hover, #microsoft-option:hover, #benchling-option:hover, #ubisoft-option:hover, #niantic-option:hover, #warner-bros-option:hover {
-    width: 250px;
-}
-
-#tesla-option:hover, #nasa-option:hover, #space-x-option:hover, #apple-option:hover, #meta-option:hover, #nfl-option:hover, #samsung-option:hover, #grail-option:hover, #forbes-option:hover, #sony-option:hover, #github-option:hover, #disney-option:hover {
-    width: 200px;
 }
 
 #tesla-option:hover, #republicans-comiite-option:hover, #daily-wire-option:hover, #young-americas-foundation-option:hover, #nasa-option:hover, #greenpeace-option:hover, #tesla-fundation-option:hover, #apple-option:hover, #harvard-universtiy-option:hover, #meta-option:hover, #archelogy-option:hover, #nfl-option:hover, #yale-option:hover, #samsung-option:hover, #brown-option:hover, #world-animal-protection-option:hover, #grail-option:hover, #microsoft-option:hover, #berkshire-hathaway-option:hover, #forbes-option:hover, #formation-bio-option:hover, #occidental-petroleum-option:hover, #mckenson-corporation-option:hover, #benchling-option:hover, #end-point-option:hover, #varjo-option:hover, #sony-option:hover, #ubisoft-option:hover, #niantic-option:hover, #rockstar-games-option:hover, #github-option:hover, #disney-option:hover, #warner-bros-option:hover {
