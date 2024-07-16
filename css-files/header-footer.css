@@ -118,10 +118,6 @@ main.page-body {
 /*  END HEADER CODE */
 
 /* FOOTER CODE */
-#footer-option-one, #footer-option-three {
-    width: 500px;
-}
-
 #footer-option-two, #footer-option-four {
     width: 400px;
 }
