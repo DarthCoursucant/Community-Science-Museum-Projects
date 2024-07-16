@@ -111,3 +111,8 @@
   float: left;
 }
 /* END FLOAT: LEFT */
+
+/* WITDH: 500PX */
+#option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover, #first-name:hover, #last-name:hover, #phone-number:hover, #email-filed:hover, #question-filed:hover, #republicans-comiite-option:hover, #archelogy-option:hover, #footer-option-one, #footer-option-three {
+  width: 500px;
+}
