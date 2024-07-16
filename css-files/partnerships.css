@@ -71,10 +71,6 @@
     width: 350px;
 }
 
-#republicans-comiite-option, #archelogy-option {
-    width: 400px;
-}
-
 .parnterships-overview-last {
     margin-bottom: 100px;
 }
@@ -90,10 +86,6 @@
 
 #young-americas-foundation-option:hover, #world-animal-protection-option:hover {
     width: 450px;
-}
-
-#tesla-fundation-option:hover, #harvard-universtiy-option:hover, #berkshire-hathaway-option:hover, #occidental-petroleum-option:hover, #mckenson-corporation-option:hover {
-    width: 400px;
 }
 
 #yale-option:hover, #brown-option:hover, #formation-bio-option:hover, #end-point-option:hover, #varjo-option:hover, #rockstar-games-option:hover {
