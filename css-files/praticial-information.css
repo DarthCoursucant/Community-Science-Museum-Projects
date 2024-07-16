@@ -49,7 +49,3 @@
 .unfold-question-thing-content-text:hover {
     box-shadow: 5px 5px 10px 10px #FFF2B2;
 }
-
-.text-info-box h1:hover, .text-info-box p:hover {
-    color: #023288;
-}
