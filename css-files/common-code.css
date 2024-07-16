@@ -1,5 +1,5 @@
 /* TEXT ALIGN: CENTER */
-.text, .formbutton, label, .contactform h1, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .faq-link-contact-page a, .hero-text, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header, #footer-option-one p, #footer-option-four p, #footer-option-two p, #footer-option-three p, #footer-option-four a, .menubar, .hero-text, #specifc-file-header h1, #specific-file-info, .partnerships-info-page h1, .parnterships-overview, .parnterships-overview-last, .text-info-box, .unfold-question-thing-content-text, .support-text h1, .support-button, .support-button-form, #visit-us-text h1, #visit-us-text p, #text-boxes-visit-us h1, #text-boxes-visit-us p, #visit-us-faq-button, #hero-text h1, #hero-text h2 {
+.text, .formbutton, label, .contactform h1, #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .faq-link-contact-page a, .hero-text, .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page, .button-header, #footer-option-one p, #footer-option-four p, #footer-option-two p, #footer-option-three p, #footer-option-four a, .menubar, .hero-text, #specifc-file-header h1, #specific-file-info, .partnerships-info-page h1, .parnterships-overview, .parnterships-overview-last, .text-info-box, .unfold-question-thing-content-text, .support-text h1, .support-button, .support-button-form, #visit-us-text h1, #visit-us-text p, #text-boxes-visit-us h1, #text-boxes-visit-us p, #visit-us-faq-button, #hero-text h1, #hero-text h2, .info-box h1, .exhibition-header h1 {
     text-align: center;
   }
 
@@ -126,4 +126,9 @@
 /* HEIGHT: 350PX */  
 .info-box, .info-box-one, .info-box-two, .image-box img, .exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover, .exhibitions-three:hover, .exhibition-four:hover, .exhibtions-six:hover, .exhibtions-seven:hover, .exhibtions-eight:hover, .exhibitions-nine:hover, .exhibitions-teen:hover, .exhibition-eleven:hover, .exhibition-twelve:hover, .exhibition-thirten:hover, .exhibition-fourteen:hover, .exhibition-seventeen:hover, .exhibition-eighteen:hover, .exhibition-ninteen:hover, .exhibition-twenty:hover, .exhibitions-five:hover {
   height: 350px;
+}
+
+/* FONT-FAMILY: PLAYWRITE HR */
+.header-of-specific-page h1, .exhibition-header h1, #donation-form-section h1, .support-text h1 {
+  font-family: "Playwrite HR", cursive;
 }
