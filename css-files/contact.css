@@ -52,7 +52,6 @@ textarea {
   float: auto;
   cursor: pointer;
   border-radius: 15px;
-  width: 250px;
   padding-bottom: 10px;
   margin: 30px 0px 0px 250px;
 }
@@ -92,7 +91,6 @@ label {
 }
 
 .faq-link-contact-page {
-    width: 200px;
     box-shadow: 5px 5px 10px 5px #094CDB;
     background-color: #023299;
     border-radius: 20px;
@@ -118,7 +116,6 @@ label {
 
 #option-one-contact a:hover{
   color: red;
-  font-size: 25px;
 }
 
 #option-one-contact:hover, #phone-number-contact:hover, #front-desk-contact:hover {
