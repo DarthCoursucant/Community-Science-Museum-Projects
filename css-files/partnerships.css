@@ -13,6 +13,10 @@
     margin-left: -15px;
 }
 
+.text-partnerships p {
+    padding: 0px 50px 20px 50px;
+}
+
 #space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #greenpeace-option, #apple-option, #nfl-option, #harvard-universtiy-option, #yale-option, #brown-option, #tesla-fundation-option, #archelogy-option, #world-animal-protection-option, #grail-option, #end-point-option, #forbes-option, #microsoft-option, #meta-option, #samsung-option, #berkshire-hathaway-option, #mckenson-corporation-option, #occidental-petroleum-option, #tesla-option, #formation-bio-option, #sony-option, #nasa-option, #benchling-option, #ubisoft-option, #rockstar-games-option, #varjo-option, #niantic-option, #github-option, #warner-bros-option, #disney-option {
     margin-left: 50px;
     padding-bottom: 5px;
