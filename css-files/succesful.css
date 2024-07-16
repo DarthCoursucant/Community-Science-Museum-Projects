@@ -7,10 +7,6 @@
 }
 
 .hero-image-donation, .hero-image-form {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
     margin-top: 70px;
     width: 1000px;
     margin-left: 250px;
