@@ -27,6 +27,12 @@
     font-size: 30px;
   }
   /* END FONT-SIZE: 30PX */
+
+  /* FONT-SIZE: 35PX */
+  #text-boxes-visit-us h1, .explore-text h1, .explore-text-one h1, .partnerships-info-page h1, .text-info-box h1, .support-text h1 {
+    font-size: 35px;
+  }
+  /* END FONT-SIZE: 35PX */
   
   /* PADDING:10PX */
   .contactform, .checkoutform, ul {
