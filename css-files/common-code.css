@@ -113,7 +113,7 @@
 /* END FLOAT: LEFT */
 
 /* WIDTH: 400PX */
-#option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .header-museum-name img, #footer-option-two, #footer-option-four, #republicans-comiite-option, #archelogy-option, #tesla-fundation-option:hover, #harvard-universtiy-option:hover, #berkshire-hathaway-option:hover, #occidental-petroleum-option:hover, #mckenson-corporation-option:hover {
+#option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .header-museum-name img, #footer-option-two, #footer-option-four, #republicans-comiite-option, #archelogy-option, #tesla-fundation-option:hover, #harvard-universtiy-option:hover, #berkshire-hathaway-option:hover, #occidental-petroleum-option:hover, #mckenson-corporation-option:hover, .support-image img, #openning-hours-box, #free-admision-box, #faq-questions-visit-us {
   width: 400px;
 }
 /* END WIDTH: 400PX */
@@ -125,7 +125,7 @@
 /* END WITDH: 500PX */
 
 /* HEIGHT: 300PX */
-.for-researchers-section-explore-page, .for-teachers-section-explore-page {
+.for-researchers-section-explore-page, .for-teachers-section-explore-page, .visit-us-box-one  {
   height: 300px;
 }
 /* END HEIGHT: 300PX */
