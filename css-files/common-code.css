@@ -118,6 +118,12 @@
 }
 /* END FLOAT: LEFT */
 
+/* WIDTH: 300PX */
+#brown-option, #berkshire-hathaway-option, #occidental-petroleum-option, #mckenson-corporation-option, #yale-option:hover, #brown-option:hover, #formation-bio-option:hover, #end-point-option:hover, #varjo-option:hover, #rockstar-games-option:hover, .explore-image img {
+  width: 300px;
+}
+/* END WIDTH: 300PX */
+
 /* WIDTH: 400PX */
 #option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact, .header-museum-name img, #footer-option-two, #footer-option-four, #republicans-comiite-option, #archelogy-option, #tesla-fundation-option:hover, #harvard-universtiy-option:hover, #berkshire-hathaway-option:hover, #occidental-petroleum-option:hover, #mckenson-corporation-option:hover, .support-image img, #openning-hours-box, #free-admision-box, #faq-questions-visit-us {
   width: 400px;
