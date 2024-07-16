@@ -15,6 +15,7 @@
 
 #space-x-option, #daily-wire-option, #young-americas-foundation-option, #republicans-comiite-option, #greenpeace-option, #apple-option, #nfl-option, #harvard-universtiy-option, #yale-option, #brown-option, #tesla-fundation-option, #archelogy-option, #world-animal-protection-option, #grail-option, #end-point-option, #forbes-option, #microsoft-option, #meta-option, #samsung-option, #berkshire-hathaway-option, #mckenson-corporation-option, #occidental-petroleum-option, #tesla-option, #formation-bio-option, #sony-option, #nasa-option, #benchling-option, #ubisoft-option, #rockstar-games-option, #varjo-option, #niantic-option, #github-option, #warner-bros-option, #disney-option {
     margin-left: 50px;
+    padding-bottom: 5px;
 }
 
 #young-americas-foundation-option, #tesla-option, #space-x-option, #republicans-comiite-option, #daily-wire-option, #nasa-option, #greenpeace-option, #tesla-fundation-option, #archelogy-option, #brown-option, #harvard-universtiy-option, #apple-option, #meta-option, #nfl-option, #yale-option, #berkshire-hathaway-option, #formation-bio-option, #ubisoft-option, #occidental-petroleum-option, #end-point-option, #world-animal-protection-option, #microsoft-option, #mckenson-corporation-option, #nfl-option, #forbes-option, #rockstar-games-option, #varjo-option, #benchling-option, #samsung-option, #niantic-option, #nasa-option, #github-option, #sony-option, #warner-bros-option, #disney-option {
@@ -64,8 +65,8 @@
 #young-americas-foundation-option:hover, #tesla-option:hover, #space-x-option:hover, #republicans-comiite-option:hover, #daily-wire-option:hover, #nasa-option:hover, #greenpeace-option:hover, #tesla-fundation-option:hover, #apple-option:hover, #harvard-universtiy-option:hover, #meta-option:hover, #archelogy-option:hover, #nfl-option:hover, #yale-option:hover, #samsung-option:hover, #brown-option:hover, #world-animal-protection-option:hover, #grail-option:hover, #microsoft-option:hover, #berkshire-hathaway-option:hover, #forbes-option:hover, #formation-bio-option:hover, #occidental-petroleum-option:hover, #mckenson-corporation-option:hover, #benchling-option:hover, #end-point-option:hover, #varjo-option:hover, #sony-option:hover, #ubisoft-option:hover, #niantic-option:hover, #rockstar-games-option:hover, #github-option:hover, #disney-option:hover, #warner-bros-option:hover {
     background-color: #826EB0;
     box-shadow: 5px 5px 10px 5px #5D4B86;
-    padding-bottom: 10px;
     margin-top: -10px;
+    padding-bottom: 15px;
 }
 
 #young-americas-foundation-option:hover, #world-animal-protection-option:hover {
