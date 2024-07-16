@@ -129,6 +129,6 @@
 }
 
 /* FONT-FAMILY: PLAYWRITE HR */
-.header-of-specific-page h1, .exhibition-header h1, #donation-form-section h1, .support-text h1, .support-button a, .support-button-form a, .hero-image-button a, .button-header a, .menubar h1, #footer-option-four a, #specific-file-info a, #visit-us-faq-button a, .formbutton a, .faq-link-contact-page a, .parnterships-overview a, .parnterships-overview-last a {
+.header-of-specific-page h1, .exhibition-header h1, #donation-form-section h1, .support-text h1, .support-button a, .support-button-form a, .hero-image-button a, .button-header a, .menubar h1, #footer-option-four a, #specific-file-info a, #visit-us-faq-button a, .formbutton a, .faq-link-contact-page a, .parnterships-overview a, .parnterships-overview-last a, .text-partnerships h1 {
   font-family: "Playwrite HR", cursive;
 }
