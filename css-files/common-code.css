@@ -129,6 +129,6 @@
 }
 
 /* FONT-FAMILY: PLAYWRITE HR */
-.header-of-specific-page h1, .exhibition-header h1, #donation-form-section h1, .support-text h1 {
+.header-of-specific-page h1, .exhibition-header h1, #donation-form-section h1, .support-text h1, .support-button a, .support-button-form a, .hero-image-button a, .button-header a {
   font-family: "Playwrite HR", cursive;
 }
