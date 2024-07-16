@@ -61,10 +61,6 @@ label {
     width: 300px;
 }
 
-#option-one-contact, #phone-number-contact, #front-desk-contact, .last-option-contact {
-    width: 400px;
-}
-
 #option-one-contact {
   background-color: #E49BC4;
 }
