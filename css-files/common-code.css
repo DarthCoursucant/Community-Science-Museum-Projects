@@ -14,7 +14,7 @@
   }
 
   /* FONT-SIZE: 25PX */
-  .formbutton a, .faq-link-contact-page a, label, .menubar a, #footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-four h1, #footer-option-three h2, .parnterships-overview, .parnterships-overview-last, #visit-us-text h1 {
+  .formbutton a, .faq-link-contact-page a, label, .menubar a, #footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-four h1, #footer-option-three h2, .parnterships-overview, .parnterships-overview-last, #visit-us-text h1, #option-one-contact a:hover {
     font-size: 25px;
   }
 
@@ -63,16 +63,6 @@
     border-radius: 20px;
   }
 
-  /* HEIGHT: 350PX */
-.info-box, .info-box-one, .info-box-two, .image-box img, .exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover, .exhibitions-three:hover, .exhibition-four:hover, .exhibtions-six:hover, .exhibtions-seven:hover, .exhibtions-eight:hover, .exhibitions-nine:hover, .exhibitions-teen:hover, .exhibition-eleven:hover, .exhibition-twelve:hover, .exhibition-thirten:hover, .exhibition-fourteen:hover, .exhibition-seventeen:hover, .exhibition-eighteen:hover, .exhibition-ninteen:hover, .exhibition-twenty:hover, .exhibitions-five:hover {
-    height: 350px;
-}
-
-/* WIDTH: 550PX */
-.info-box, .info-box-one, .info-box-two, .image-box img {
-    width: 550px;
-}
-
 /* MARGIN-TOP: 50PX */
 .exhibitions-one, .exhibitions-two, .exhibitions-three, .exhibition-four, .exhibitions-five, .exhibtions-six, .exhibtions-seven, .exhibtions-eight, .exhibitions-nine, .exhibitions-teen, .exhibition-eleven, .exhibition-twelve, .exhibition-thirten, .exhibition-fourteen, .exhibition-fifteen, .exhibition-sixteen, .exhibition-seventeen, .exhibition-eighteen, .exhibition-ninteen, .exhibition-twenty, .exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover, .exhibitions-three:hover, .exhibition-four:hover, .exhibtions-six:hover, .exhibtions-seven:hover, .exhibtions-eight:hover, .exhibitions-nine:hover, .exhibitions-teen:hover, .exhibition-eleven:hover, .exhibition-twelve:hover, .exhibition-thirten:hover, .exhibition-fourteen:hover, .exhibition-seventeen:hover, .exhibition-eighteen:hover, .exhibition-ninteen:hover, .exhibition-twenty:hover, .exhibitions-five:hover {
     margin-top: 50px;
@@ -99,12 +89,12 @@
 }
 
 /* WIDTH: 200PX */
-#daily-wire-option, #greenpeace-option, #formation-bio-option, #warner-bros-option, #tesla-option:hover, #nasa-option:hover, #space-x-option:hover, #apple-option:hover, #meta-option:hover, #nfl-option:hover, #samsung-option:hover, #grail-option:hover, #forbes-option:hover, #sony-option:hover, #github-option:hover, #disney-option:hover {
+#daily-wire-option, #greenpeace-option, #formation-bio-option, #warner-bros-option, #tesla-option:hover, #nasa-option:hover, #space-x-option:hover, #apple-option:hover, #meta-option:hover, #nfl-option:hover, #samsung-option:hover, #grail-option:hover, #forbes-option:hover, #sony-option:hover, #github-option:hover, #disney-option:hover, .faq-link-contact-page {
   width: 200px;
 }
 
 /* WIDTH: 250PX */
-#daily-wire-option:hover, #greenpeace-option:hover, #microsoft-option:hover, #benchling-option:hover, #ubisoft-option:hover, #niantic-option:hover, #warner-bros-option:hover, #harvard-universtiy-option, #yale-option, #end-point-option, #rockstar-games-option, #varjo-option {
+#daily-wire-option:hover, #greenpeace-option:hover, #microsoft-option:hover, #benchling-option:hover, #ubisoft-option:hover, #niantic-option:hover, #warner-bros-option:hover, #harvard-universtiy-option, #yale-option, #end-point-option, #rockstar-games-option, #varjo-option, .formbutton {
   width: 250px;
 }
 
@@ -123,7 +113,17 @@
   width: 500px;
 }
 
+/* WIDTH: 550PX */
+.info-box, .info-box-one, .info-box-two, .image-box img {
+  width: 550px;
+}
+
 /* HEIGHT: 300PX */
 .for-researchers-section-explore-page, .for-teachers-section-explore-page, .visit-us-box-one  {
   height: 300px;
+}
+
+/* HEIGHT: 350PX */  
+.info-box, .info-box-one, .info-box-two, .image-box img, .exhibition-sixteen:hover, .exhibitions-one:hover, .exhibitions-two:hover, .exhibition-fifteen:hover, .exhibitions-three:hover, .exhibition-four:hover, .exhibtions-six:hover, .exhibtions-seven:hover, .exhibtions-eight:hover, .exhibitions-nine:hover, .exhibitions-teen:hover, .exhibition-eleven:hover, .exhibition-twelve:hover, .exhibition-thirten:hover, .exhibition-fourteen:hover, .exhibition-seventeen:hover, .exhibition-eighteen:hover, .exhibition-ninteen:hover, .exhibition-twenty:hover, .exhibitions-five:hover {
+  height: 350px;
 }
