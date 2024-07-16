@@ -248,3 +248,47 @@ main.page-body {
     width: 65px;
     height: 65px;
   }
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+    .header-museum-name img {
+      height: 100px;
+      width: 250px;
+      margin-left: 30px;
+  }
+    #exhibitions-button-header {
+      margin-left: 310px;
+    }
+    
+    #support-button-header {
+      width: 130px;
+      margin-left: -15px;
+    }
+    
+    #visit-button-header {
+      width: 100px;
+      margin-left: -15px;
+    }
+    
+    #special-events-button-header, #exhibitions-button-header {
+      width: 150px;
+    }
+    
+    #special-events-button-header {
+      margin-left: -15px;
+    }
+  }
+
+/*MAX WITH 1100PX*/
+@media (max-width: 1100px) {
+    .header-museum-name img {
+        height: 70px;
+        width: 200px;
+        margin-left: 30px;
+      margin-top: 20px;
+    }
+    
+    .button-header {
+      margin-top: 30px;
+    }
+  }
