@@ -9,7 +9,7 @@
 }
 
   /* FONT-SIZE: 20PX */
-  #option-one-contact a, input, textarea, #phone-number-contact p, #front-desk-contact p, .last-option-contact p, .hero-text p, .menubar, .button-header a, .explore-text p, .explore-text-one p, .partnerships-info-page p, .text-info-box p, .unfold-question-thing-content-text, .support-text p, #visit-us-text p, #text-boxes-visit-us p {
+  #option-one-contact a, input, textarea, #phone-number-contact p, #front-desk-contact p, .last-option-contact p, .hero-text p, .menubar, .button-header a, .explore-text p, .explore-text-one p, .partnerships-info-page p, .text-info-box p, .unfold-question-thing-content-text, .support-text p, #visit-us-text p, #text-boxes-visit-us p, .unfold-question-thing {
     font-size: 20px;
   }
 
@@ -129,11 +129,11 @@
 }
 
 /* FONT-FAMILY: PLAYWRITE HR */
-.header-of-specific-page h1, .exhibition-header h1, #donation-form-section h1, .support-text h1, .support-button a, .support-button-form a, .hero-image-button a, .button-header a, .menubar h1, #footer-option-four a, #specific-file-info a, #visit-us-faq-button a, .formbutton a, .faq-link-contact-page a, .parnterships-overview a, .parnterships-overview-last a, .text-partnerships h1, #header-explore-paht h1, .explore-text h1, .explore-text-one h1 {
+.header-of-specific-page h1, .exhibition-header h1, #donation-form-section h1, .support-text h1, .support-button a, .support-button-form a, .hero-image-button a, .button-header a, .menubar h1, #footer-option-four a, #specific-file-info a, #visit-us-faq-button a, .formbutton a, .faq-link-contact-page a, .parnterships-overview a, .parnterships-overview-last a, .text-partnerships h1, #header-explore-paht h1, .explore-text h1, .explore-text-one h1, .text-info-box h1, .text-info-box a, .unfold-question-thing {
   font-family: "Playwrite HR", cursive;
 }
 
 /* HOVER FONT COLOR*/
-#hero-text h1:hover, #hero-text p:hover, #hero-text h2:hover, .explore-text h1:hover, .explore-text p:hover, .explore-text-one h1:hover, .explore-text-one p:hover {
+#hero-text h1:hover, #hero-text p:hover, #hero-text h2:hover, .explore-text h1:hover, .explore-text p:hover, .explore-text-one h1:hover, .explore-text-one p:hover, .text-info-box h1:hover, .text-info-box p:hover {
   color: #50CE03;;
 }
