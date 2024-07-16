@@ -23,7 +23,3 @@
 .hero-image-donation:hover, .hero-image-form:hover {
     box-shadow: 5px 5px 10px 10px #818181;
 }
-
-#hero-text h1:hover, #hero-text p:hover, #hero-text h2:hover {
-    color: #50CE03;;
-}
