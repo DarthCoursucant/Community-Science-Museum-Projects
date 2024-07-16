@@ -132,3 +132,8 @@
 .header-of-specific-page h1, .exhibition-header h1, #donation-form-section h1, .support-text h1, .support-button a, .support-button-form a, .hero-image-button a, .button-header a, .menubar h1, #footer-option-four a, #specific-file-info a, #visit-us-faq-button a, .formbutton a, .faq-link-contact-page a, .parnterships-overview a, .parnterships-overview-last a, .text-partnerships h1, #header-explore-paht h1, .explore-text h1, .explore-text-one h1 {
   font-family: "Playwrite HR", cursive;
 }
+
+/* HOVER FONT COLOR*/
+#hero-text h1:hover, #hero-text p:hover, #hero-text h2:hover, .explore-text h1:hover, .explore-text p:hover, .explore-text-one h1:hover, .explore-text-one p:hover {
+  color: #50CE03;;
+}
