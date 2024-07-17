@@ -148,3 +148,30 @@
       font-size: 22px;
     }
   }
+
+/*MAX WITH 1000PX*/
+@media (max-width: 1000px) {
+    
+    .hero-image-image {
+      margin-top: -25px;
+    }
+    .hero-text h1 {
+      font-size: 30px;
+    }
+    
+    .hero-image-button a {
+      font-size: 25px;
+    }
+    
+    .hero-image-button {
+      width: 390px;
+    }
+    
+    .header-of-specific-page {
+      margin-left: -300px;
+    }
+    
+    .specifc-file-option-one, .specific-file-option-nine, .specific-file-option-eleven, .specifc-file-option-two, .specific-file-option-twelve, .specifc-file-option-eight  {
+        margin-left: 10px;
+      }
+  }
