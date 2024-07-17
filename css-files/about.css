@@ -20,3 +20,44 @@
 .hero-image-container:hover {
     box-shadow: 0px 0px 10px 10px #ffffff;
 }
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+    .hero-image-container {
+      width: 90%;
+      margin-left: 60px;
+    }
+    
+    #openning-hours-box, #free-admision-box, #faq-questions-visit-us {
+      width: 350px;
+    }
+    
+    #faq-questions-visit-us p {
+      padding: 0px 20px 0px 20px;
+    }
+    
+    #openning-hours-box {
+      margin-left: 40px;
+    }
+    
+      
+    #visit-us-faq-button {
+      margin-left: 70px;
+    }
+  }
+
+  /*MAX WITH 1100PX*/
+@media (max-width: 1100px) {
+  
+    #openning-hours-box, #free-admision-box, #faq-questions-visit-us {
+      width: 300px;
+    }
+    
+     #visit-us-faq-button {
+      margin-left: 50px;
+    }
+    
+    #visit-us-faq-button a {
+      font-size: 25px;
+    }
+  }
