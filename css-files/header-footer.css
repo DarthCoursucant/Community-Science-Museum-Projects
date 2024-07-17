@@ -328,6 +328,48 @@ main.page-body {
   .button-header {
     margin-top: 30px;
   }
+
+  #footer-option-one {
+    margin-left: -5px;
+  }
+  
+  #footer-option-one h1 {
+    font-size: 20px;
+    width: 290px;
+    margin-left: 15px;
+  }
+  
+  #footer-option-one p {
+    font-size: 13px;
+    width: 290px;
+  }
+  
+  #footer-option-two h1 {
+    font-size: 20px;
+    margin-left: 45px;
+  }
+  
+  #footer-option-three h1 {
+    font-size: 20px;
+    margin-left: 100px;
+  }
+  
+  #footer-option-three h2 {
+    font-size: 20px;
+    margin-left: 60px;
+  }
+  
+  #footer-option-three {
+    margin-left: 10px;
+  }
+  
+  #footer-option-three p, #footer-option-two p{
+    font-size: 12px;
+  }
+  
+  #footer-option-four a {
+    font-size: 14px;
+  }
 }
 
 /*MAX WITH 1050PX*/
