@@ -85,3 +85,76 @@
     background-color: #AD9ACC;
     box-shadow: 0px 0px 10px 10px #626592;
 }
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+  
+  .partnerships-info-page {
+    width: 1000px;
+    margin-left: 120px;
+  }
+  
+  .parnterships-overview a, .parnterships-overview-last a {
+    font-size: 18px;
+  }
+  
+  .parnterships-overview, .parnterships-overview-last {
+    margin-left: 90px;
+  }
+  
+  #republicans-comiite-option {
+    width: 260px;
+  }
+  
+  #archelogy-option {
+    width: 270px;
+  }
+  
+  #young-americas-foundation-option, #tesla-fundation-option {
+    width: 240px;
+  }
+  
+  #berkshire-hathaway-option {
+    width: 220px;
+  }
+  
+  #brown-option, #harvard-universtiy-option {
+    width: 200px;
+  }
+  
+  #tesla-option, #apple-option, #nfl-option, #forbes-option, #nasa-option, #meta-option, #github-option, #sony-option, #disney-option {
+    width: 90px;
+  }
+  
+  #space-x-option, #ubisoft-option, #benchling-option {
+    width: 100px;
+  }
+  
+  #daily-wire-option, #greenpeace-option, #microsoft-option, #samsung-option, #niantic-option, #warner-bros-option {
+    width: 120px;
+  }
+  
+  #formation-bio-option {
+    width: 140px;
+  }
+  
+  #yale-option {
+    width: 150px;
+  }
+  
+  #end-point-option {
+    width: 180px;
+  }
+  
+  #occidental-petroleum-option, #world-animal-protection-option, #mckenson-corporation-option {
+    width: 210px;
+  }
+  
+  #rockstar-games-option, #varjo-option {
+    width: 170px;
+  }
+  
+  #tesla-option, #space-x-option, #republicans-comiite-option, #daily-wire-option, #ubisoft-option, #greenpeace-option, #formation-bio-option, #brown-option, #apple-option, #yale-option, #berkshire-hathaway-option, #end-point-option, #world-animal-protection-option, #microsoft-option, #mckenson-corporation-option, #nfl-option, #rockstar-games-option, #archelogy-option, #forbes-option, #varjo-option, #niantic-option, #nasa-option, #meta-option, #github-option, #sony-option, #disney-option, #warner-bros-option {
+    margin-left: 20px;
+  }
+}
