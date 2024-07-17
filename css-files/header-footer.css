@@ -277,6 +277,43 @@ main.page-body {
   #special-events-button-header {
     margin-left: -15px;
   }
+
+  #footer-option-two h1 {
+    margin-left: 15px;
+  }
+  
+  #footer-option-two {
+    margin-left: 10px;
+  }
+  
+  #footer-option-three h1 {
+    margin-left: 80px;
+  }
+  
+  #footer-option-three h2 {
+    margin-left: 30px;
+  }
+  
+  #footer-option-four {
+    margin-left: 0px;
+  }
+  
+  #footer-option-four h1 {
+    font-size: 20px;
+    margin-left: 30px;
+  }
+}
+
+/*MAX WITH 1200PX*/
+@media (max-width: 1200px) {
+  #footer-option-four h1 {
+    font-size: 18px;
+    margin-left: 40px;
+  }
+  
+  #footer-option-four {
+    margin-left: -15px;
+  }
 }
 
 /*MAX WITH 1100PX*/
