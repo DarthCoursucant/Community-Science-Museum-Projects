@@ -211,3 +211,67 @@ textarea:hover {
       font-size: 15px;
     }
   }
+
+  /*MAX WITH 950PX*/
+@media (max-width: 950px) {
+    .donation-form {
+      margin-left: 50px;
+    }
+    
+    .support-us-option, .volunteer-option, .interships-option {
+      margin-left: 100px;
+    }
+  }
+
+  /*MAX WITH 900PX*/
+@media (max-width: 900px) {
+    .donation-form {
+          width: 700px;
+          margin-left: 70px;
+        }
+    
+    #amount-two, #amount-three, #amount-four, #amount-five {
+      margin-left: 30px;
+    }
+      
+    textarea {
+      width: 300px;
+    }
+    
+    textarea:hover {
+      width: 300px;
+    }
+    
+    .support-button-form {
+      width: 200px;
+      margin-left: 250px;
+    }
+    
+    .support-us-option, .volunteer-option, .interships-option {
+        width: 600px;
+      height: 450px;
+        margin-left: 130px;
+      }
+    
+    .support-image img {
+      width: 200px;
+      height: 100px;
+    }
+    
+    .support-image {
+      margin-left: 200px;
+    }
+    
+    .support-text h1 {
+      font-size: 30px;
+    }
+    
+    .support-text p {
+      font-size: 15px;
+    }
+    
+    .support-button {
+      margin-left: 130px;
+      width: 350px;
+    }
+  }
