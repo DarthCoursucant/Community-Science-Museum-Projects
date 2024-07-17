@@ -17,11 +17,35 @@
       height: 300px;
     }
     
-    .specifc-file-text, .specifc-file-text-one {
-      padding: 0px 30px 0px 30px;
-    }
-    
     #specific-file-info p {
       font-size: 13px;
+    }
+  }
+
+  /*MAX WITH 1150PX*/
+@media (max-width: 1150px) {
+    .hero-image-button {
+        margin-left: 300px;
+      }
+    
+    .header-of-specific-page {
+        margin-left: -200px;
+      }
+    
+    .specifc-file-option-one, .specific-file-option-nine, .specific-file-option-eleven, .specifc-file-option-two, .specific-file-option-twelve, .specifc-file-option-eight  {
+        margin-left: 75px;
+      }
+    
+     #specifc-file-image img, .specifc-file-text, .specifc-file-text-one {
+        width: 450px;
+        height: 250px;
+      }
+    
+    #specifc-file-header h1 {
+      font-size: 20px;
+    }
+  
+  #specific-file-info p {
+      font-size: 12px;
     }
   }
