@@ -201,7 +201,6 @@ label {
   #first-name:hover, #last-name:hover, #phone-number:hover, #email-filed:hover, #question-filed:hover {
     width: 350px;
   }
-
     
    input, textarea {
   width: 300px;
@@ -261,3 +260,61 @@ label {
     font-size: 20px;
   }
 }
+
+/*MAX WITH 600PX*/
+@media (max-width: 600px) {
+  #option-one-contact, #phone-number-contact {
+      width: 250px;
+    }
+    
+    #front-desk-contact {
+      display: none;
+    }
+    
+    #option-one-contact {
+      margin-left: 25px;
+    }
+    
+    .last-option-contact {
+      width: 300px;
+    }
+    
+    .faq-link-contact-page {
+      margin-left: 90px;
+    }
+  
+    .contactform {
+      margin-left: 55px;
+      width: 400px;
+    }
+    
+    .contactform:hover {
+      width: 450px;
+    }
+    
+    label {
+      width: 140px;
+      font-size: 13px;
+    }
+    
+    #first-name:hover, #last-name:hover, #phone-number:hover, #email-filed:hover, #question-filed:hover {
+      width: 250px;
+    }
+    
+    input, textarea {
+    width: 200px;
+    box-sizing: border-box;
+    outline: none;
+    background-color: #ffffff;
+  }
+  
+    .formbutton {
+      margin-left: 90px;
+      width: 150px;
+    }
+    
+    .formbutton a {
+      font-size: 15px;
+    }
+    
+  }
