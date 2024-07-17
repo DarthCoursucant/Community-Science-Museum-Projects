@@ -96,7 +96,7 @@
 /*MAX WITH 1300PX*/
 @media (max-width: 1300px) {
     .hero-image-image {
-      width: 1270px;
+      width: 101%;
     }
       
     .hero-image-button {
