@@ -218,3 +218,24 @@ label {
     font-size: 12px;
   }
 }
+
+/*MAX WITH 750PX*/
+@media (max-width: 750px) {
+  .last-option-contact {
+    margin-left: 160px;
+  }
+  
+  .faq-link-contact-page a {
+    font-size: 15px;
+  }
+  
+  .faq-link-contact-page {
+    padding-bottom: 10px;
+    width: 110px;
+    margin-left: 130PX;
+  }
+  
+  .contactform {
+    margin-left: 55px;
+  }
+}
