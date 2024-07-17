@@ -49,3 +49,15 @@
 .unfold-question-thing-content-text:hover {
     box-shadow: 5px 5px 10px 10px #FFF2B2;
 }
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+    .image-info-box img {
+      width: 550px;
+      height: 400px;
+    }
+    
+    .image-info-box {
+      margin-top: 30px;
+    }
+  }
