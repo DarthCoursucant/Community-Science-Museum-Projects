@@ -552,6 +552,20 @@ main.page-body {
   }
 }
 
+/*MAX WITH 700PX*/
+@media (max-width: 700px) {
+  #footer-option-one p {
+    font-size: 9px;
+    width: 150px;
+  }
+  
+  #footer-option-one h1 {
+    width: 150px;
+    text-align: center;
+    margin-left: -5px;
+  }
+}
+
    /*MAX WITH 650PX*/
 @media (max-width: 650px) {
   .flex-menu {
