@@ -64,14 +64,6 @@
 
 /*MAX WITH 1300PX*/
 @media (max-width: 1300px) {
-    .hero-image-image {
-      width: 101%;
-    }
-      
-    .hero-image-button {
-      margin-left: 370px;
-    }
-    
     .header-of-specific-page {
       margin-left: -150px;
     }
@@ -88,10 +80,6 @@
 
   /*MAX WITH 1150PX*/
 @media (max-width: 1150px) {
-    .hero-image-button {
-        margin-left: 300px;
-      }
-    
     .header-of-specific-page {
         margin-left: -200px;
       }
@@ -116,23 +104,7 @@
 
 /*MAX WITH 1000PX*/
 @media (max-width: 1000px) {
-    
-    .hero-image-image {
-      margin-top: -25px;
-    }
-    .hero-text h1 {
-      font-size: 30px;
-    }
-    
-    .hero-image-button a {
-      font-size: 25px;
-    }
-    
-    .hero-image-button {
-      width: 390px;
-    }
-    
-    .header-of-specific-page {
+.header-of-specific-page {
       margin-left: -300px;
     }
   
