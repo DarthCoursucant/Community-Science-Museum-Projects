@@ -595,6 +595,14 @@ main.page-body {
 
    /*MAX WITH 550PX*/
 @media (max-width: 550px) {
+  .menubar h1 {
+    font-size: 25px;
+  }
+  
+  .menubar a {
+    font-size: 15px;
+  }
+
   .flex-menu {
     margin-left: 200px;
   }
