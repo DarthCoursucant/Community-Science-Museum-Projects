@@ -260,3 +260,14 @@
       margin-left: 430px;
     }
   }
+
+/*MAX WITH 650PX*/
+@media (max-width: 650px) {
+    .hero-text h1 {
+      font-size: 25px;
+    }
+        
+    .hero-image-button {
+      margin-left: 170px;
+    }
+}
