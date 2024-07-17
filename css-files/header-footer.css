@@ -489,6 +489,62 @@ main.page-body {
   }
 }
 
+/*MAX WITH 800PX*/
+@media (max-width: 800px) {
+  #footer-option-one p {
+    font-size: 10px;
+    width: 230px;
+  }
+
+  #footer-option-one h1, #footer-option-two h1, #footer-option-three h1, #footer-option-three h2 {
+    font-size: 15px;
+  }
+  
+  #footer-option-two p, #footer-option-three p, #footer-option-four a {
+    font-size: 10px;
+  }
+  
+  #footer-option-two {
+    margin-left: -70px;
+  }
+  
+  #footer-option-two h1 {
+    margin-left: 30px;
+  }
+  
+  #footer-option-three {
+    margin-left: -10px;
+  }
+  
+  #footer-option-three h1 {
+    margin-left: 70px;
+  }
+  
+  #footer-option-three h2 {
+    margin-left: 40px;
+  }
+  
+  #footer-option-four a {
+    font-size: 10px;
+  }
+  
+  #contact-footer {
+    margin-left: 99px;
+  }
+  
+  #partnerships-footer {
+    margin-left: 92px;
+  }
+  
+  #explore-footer {
+    margin-left: 80px;
+  }
+  
+  #practical-information-fotter {
+    margin-left: 75px;
+  }
+}
+
    /*MAX WITH 750PX*/
 @media (max-width: 750px) {
   .flex-menu {
