@@ -1,3 +1,72 @@
+.specifc-file-option-one, .specifc-file-option-two, .specifc-file-option-three, .specifc-file-option-four, .specifc-file-option-five, .specifc-file-option-six, .specifc-file-option-seven, .specifc-file-option-eight, .specific-file-option-nine, .specific-file-option-teen, .specific-file-option-eleven, .specific-file-option-twelve {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#specifc-file-image img {
+    height: 350px;
+    width: 700px;
+}
+
+.specifc-file-option-eight {
+    margin-bottom: 50px;
+}
+
+.specifc-file-text, .specifc-file-text-one {
+    height: 350px;
+    width: 700px;
+}
+
+.specifc-file-text {
+    background-color: #c1eabc;
+}
+
+.specifc-file-text-one {
+    background-color: #F8C8DC;
+}
+
+#specific-file-info {
+    font-size: 17px;
+}
+
+#specific-file-info p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header-of-specific-page h1 {
+    font-size: 40px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+.header-of-specific-page h1 {
+    text-decoration: underline;
+}
+
+#specific-file-info a {
+    color: #FF0303;
+}
+
+/* SPECIAL EFFECTS */
+
+#specific-file-info a:hover {
+    color: #094CDB;
+}
+
+.hero-image-button:hover {
+    background-color: #2E7702;
+    box-shadow: 5px 5px 10px 5px #50CE03;
+}
+
+.specifc-file-text:hover {
+    background-color: #fafabe;
+}
+
+.specifc-file-text-one:hover {
+    background-color: #fac898;
+}
+
 /*MAX WITH 1300PX*/
 @media (max-width: 1300px) {
     .hero-image-image {
@@ -49,3 +118,4 @@
       font-size: 12px;
     }
   }
+
