@@ -212,3 +212,10 @@
         margin-left: -350px;
     }
 }
+
+/*MAX WITH 800PX*/
+@media (max-width: 800px) {
+    .hero-image-button {
+      margin-left: 200px;
+    }
+}
