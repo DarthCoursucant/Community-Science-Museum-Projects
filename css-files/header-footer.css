@@ -251,100 +251,100 @@ main.page-body {
 
 /*MAX WITH 1300PX*/
 @media (max-width: 1300px) {
-    .header-museum-name img {
-      height: 100px;
-      width: 250px;
-      margin-left: 30px;
-  }
-    #exhibitions-button-header {
-      margin-left: 310px;
-    }
-    
-    #support-button-header {
-      width: 130px;
-      margin-left: -15px;
-    }
-    
-    #visit-button-header {
-      width: 100px;
-      margin-left: -15px;
-    }
-    
-    #special-events-button-header, #exhibitions-button-header {
-      width: 150px;
-    }
-    
-    #special-events-button-header {
-      margin-left: -15px;
-    }
-  }
-
-/*MAX WITH 1100PX*/
-@media (max-width: 1100px) {
-    .header-museum-name img {
-        height: 70px;
-        width: 200px;
-        margin-left: 30px;
-      margin-top: 20px;
-    }
-    
-    .button-header {
-      margin-top: 30px;
-    }
-  }
-
-  /*MAX WITH 1050PX*/
-@media (max-width: 1050px) {
-  .button-header {
-    display:none;
+  .header-museum-name img {
+    height: 100px;
+    width: 250px;
+    margin-left: 30px;
+}
+  #exhibitions-button-header {
+    margin-left: 310px;
   }
   
-  .flex-menu {
-    display: block;
-    margin-left: 600px;
+  #support-button-header {
+    width: 130px;
+    margin-left: -15px;
   }
-
-  .header-museum-name img, .header-museum-name a {
+  
+  #visit-button-header {
+    width: 100px;
+    margin-left: -15px;
+  }
+  
+  #special-events-button-header, #exhibitions-button-header {
     width: 150px;
+  }
+  
+  #special-events-button-header {
+    margin-left: -15px;
   }
 }
 
-  /*MAX WITH 850PX*/
-  @media (max-width: 850px) {
-    .flex-menu {
-      margin-left: 500px;
-      margin-top: 10px;
-    }
-    
-    .header-museum-name {
-      margin-top: -10px;
-    }
+/*MAX WITH 1100PX*/
+@media (max-width: 1100px) {
+  .header-museum-name img {
+      height: 70px;
+      width: 200px;
+      margin-left: 30px;
+    margin-top: 20px;
   }
   
-     /*MAX WITH 750PX*/
-  @media (max-width: 750px) {
-    .flex-menu {
-      margin-left: 400px;
-    }
+  .button-header {
+    margin-top: 30px;
   }
-  
-     /*MAX WITH 650PX*/
-  @media (max-width: 650px) {
-    .flex-menu {
-      margin-left: 300px;
-    }
+}
+
+/*MAX WITH 1050PX*/
+@media (max-width: 1050px) {
+.button-header {
+  display:none;
+}
+
+.flex-menu {
+  display: block;
+  margin-left: 600px;
+  margin-top: 10px;
+}
+
+.header-museum-name img, .header-museum-name a {
+  width: 150px;
+}
+
+.header-museum-name {
+    margin-top: -10px;
   }
-  
-     /*MAX WITH 550PX*/
-  @media (max-width: 550px) {
-    .flex-menu {
-      margin-left: 200px;
-    }
+}
+
+/*MAX WITH 850PX*/
+@media (max-width: 850px) {
+  .flex-menu {
+    margin-left: 500px;
   }
-  
-     /*MAX WITH 450PX*/
-  @media (max-width: 450px) {
-    .flex-menu {
-      margin-left: 100px;
-    }
+}
+
+   /*MAX WITH 750PX*/
+@media (max-width: 750px) {
+  .flex-menu {
+    margin-left: 400px;
   }
+}
+
+   /*MAX WITH 650PX*/
+@media (max-width: 650px) {
+  .flex-menu {
+    margin-left: 300px;
+  }
+}
+
+   /*MAX WITH 550PX*/
+@media (max-width: 550px) {
+  .flex-menu {
+    margin-left: 200px;
+  }
+}
+
+   /*MAX WITH 450PX*/
+@media (max-width: 450px) {
+  .flex-menu {
+    margin-left: 100px;
+  }
+}
