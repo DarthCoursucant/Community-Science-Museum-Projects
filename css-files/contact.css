@@ -134,3 +134,14 @@ label {
   background-color: #023299;
   box-shadow: 5px 5px 10px 5px #094CDB;
 }
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+  #option-one-contact {
+    margin-left: 20px;
+  }
+  
+  .last-option-contact {
+    margin-left: 430px;
+  }
+}
