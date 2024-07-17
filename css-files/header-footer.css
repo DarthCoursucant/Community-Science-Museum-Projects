@@ -459,10 +459,38 @@ main.page-body {
   }
 }
 
+/*MAX WITH 880PX*/
+@media (max-width: 880px) {
+  #footer-option-two h1 {
+   margin-left: -10px;
+ }
+ 
+ #footer-option-three h2 {
+   margin-left: 0px;
+ }
+}
+
 /*MAX WITH 850PX*/
 @media (max-width: 850px) {
   .flex-menu {
     margin-left: 500px;
+  }
+
+  #footer-option-two h1 {
+    margin-left: -15px;
+  }
+  
+  #footer-option-three h2 {
+    margin-left: 0px;
+    font-size: 18px;
+  }
+  
+  #footer-option-three h1 {
+    margin-left: 35px;
+  }
+  
+  #footer-option-four {
+    margin-right: -40px;
   }
 }
 
