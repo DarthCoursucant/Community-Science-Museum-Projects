@@ -76,3 +76,41 @@
       font-size: 15px;
     }
   }
+
+  /*MAX WITH 750PX*/
+@media (max-width: 750px) {
+    .hero-image-donation {
+        margin-left: 80px;
+      }
+  }
+
+  /*MAX WITH 700PX*/
+@media (max-width: 700px) {
+    .hero-image-donation {
+        width: 500px;
+        margin-left: 100px;
+      }
+    
+     #hero-text h1 {
+        font-size: 20px;
+      }
+      
+      #hero-text p {
+        font-size: 12px;
+      }
+  }
+
+  /*MAX WITH 630PX*/
+@media (max-width: 630px) {
+    .hero-image-donation {
+        width: 450px;
+        margin-left: 70px;
+      }
+  }
+  
+  /*MAX WITH 550PX*/
+  @media (max-width: 550px) {
+    .hero-image-donation {
+        margin-left: 40px;
+      }
+  }
