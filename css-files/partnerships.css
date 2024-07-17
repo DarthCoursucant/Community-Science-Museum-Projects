@@ -64,6 +64,13 @@
     margin-bottom: 100px;
 }
 
+.phone-thing-only {
+    width: 800px;
+    margin-left: 400px;
+    margin-bottom: 70px;
+    display: none;
+}
+
 /* SPECIAL EFFECTS */
 
 #young-americas-foundation-option:hover, #tesla-option:hover, #space-x-option:hover, #republicans-comiite-option:hover, #daily-wire-option:hover, #nasa-option:hover, #greenpeace-option:hover, #tesla-fundation-option:hover, #apple-option:hover, #harvard-universtiy-option:hover, #meta-option:hover, #archelogy-option:hover, #nfl-option:hover, #yale-option:hover, #samsung-option:hover, #brown-option:hover, #world-animal-protection-option:hover, #grail-option:hover, #microsoft-option:hover, #berkshire-hathaway-option:hover, #forbes-option:hover, #formation-bio-option:hover, #occidental-petroleum-option:hover, #mckenson-corporation-option:hover, #benchling-option:hover, #end-point-option:hover, #varjo-option:hover, #sony-option:hover, #ubisoft-option:hover, #niantic-option:hover, #rockstar-games-option:hover, #github-option:hover, #disney-option:hover, #warner-bros-option:hover {
@@ -84,12 +91,6 @@
 .partnerships-info-page:hover, .phone-thing-only {
     background-color: #AD9ACC;
     box-shadow: 0px 0px 10px 10px #626592;
-}
-
-.phone-thing-only {
-    width: 800px;
-    margin-left: 400px;
-    margin-bottom: 70px;
 }
 
 /*MAX WITH 1300PX*/
