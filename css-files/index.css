@@ -271,3 +271,14 @@
       margin-left: 170px;
     }
 }
+
+/*MAX WITH 600PX*/
+@media (max-width: 600px) {
+    .hero-image-button {
+        margin-left: 150px;
+    }
+        
+    .header-of-specific-page {
+        margin-left: -390px;
+    }
+}
