@@ -237,5 +237,27 @@ label {
   
   .contactform {
     margin-left: 55px;
+    width: 500px;
+  }
+  
+  .contactform:hover {
+    width: 550px;
+  }
+  
+  label {
+    width: 150px;
+    font-size: 15px;
+  }
+  
+  #first-name:hover, #last-name:hover, #phone-number:hover, #email-filed:hover, #question-filed:hover {
+    width: 350px;
+  }
+  
+  .formbutton {
+    margin-left: 100px;
+  }
+  
+  .formbutton a {
+    font-size: 20px;
   }
 }
