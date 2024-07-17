@@ -292,3 +292,59 @@ main.page-body {
       margin-top: 30px;
     }
   }
+
+  /*MAX WITH 1050PX*/
+@media (max-width: 1050px) {
+  .button-header {
+    display:none;
+  }
+  
+  .flex-menu {
+    display: block;
+    margin-left: 600px;
+  }
+
+  .header-museum-name img, .header-museum-name a {
+    width: 150px;
+  }
+}
+
+  /*MAX WITH 850PX*/
+  @media (max-width: 850px) {
+    .flex-menu {
+      margin-left: 500px;
+      margin-top: 10px;
+    }
+    
+    .header-museum-name {
+      margin-top: -10px;
+    }
+  }
+  
+     /*MAX WITH 750PX*/
+  @media (max-width: 750px) {
+    .flex-menu {
+      margin-left: 400px;
+    }
+  }
+  
+     /*MAX WITH 650PX*/
+  @media (max-width: 650px) {
+    .flex-menu {
+      margin-left: 300px;
+    }
+  }
+  
+     /*MAX WITH 550PX*/
+  @media (max-width: 550px) {
+    .flex-menu {
+      margin-left: 200px;
+    }
+  }
+  
+     /*MAX WITH 450PX*/
+  @media (max-width: 450px) {
+    .flex-menu {
+      margin-left: 100px;
+    }
+  }
