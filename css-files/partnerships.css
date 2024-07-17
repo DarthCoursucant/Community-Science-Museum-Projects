@@ -26,7 +26,7 @@
     height: 40px;
 }
 
-#young-americas-foundation-option, #space-x-option, #daily-wire-option, #archelogy-option, #harvard-universtiy-option, #meta-option, #yale-option, #formation-bio-option, #ubisoft-option, #end-point-option, #world-animal-protection-option, #mckenson-corporation-option, #nfl-option, #varjo-option, #benchling-option, #niantic-option, #sony-option, #warner-bros-option {
+#young-americas-foundation-option, #space-x-option, #daily-wire-option, #archelogy-option, #harvard-universtiy-option, #meta-option, #yale-option, #formation-bio-option, #ubisoft-option, #end-point-option, #world-animal-protection-option, #mckenson-corporation-option, #nfl-option, #varjo-option, #benchling-option, #niantic-option, #sony-option, #warner-bros-option, .phone-thing-only:hover {
     background-color: #023299;
     box-shadow: 5px 5px 10px 5px #094CDB;
 }
@@ -81,9 +81,15 @@
     margin-left: 20px;
 }
 
-.partnerships-info-page:hover {
+.partnerships-info-page:hover, .phone-thing-only {
     background-color: #AD9ACC;
     box-shadow: 0px 0px 10px 10px #626592;
+}
+
+.phone-thing-only {
+    width: 800px;
+    margin-left: 400px;
+    margin-bottom: 70px;
 }
 
 /*MAX WITH 1300PX*/
