@@ -105,3 +105,23 @@
       font-size: 15px;
     }
   }
+
+  /*MAX WITH 700PX*/
+@media (max-width: 700px) {
+    .image-info-box img {
+      width: 300px;
+      height: 150px;
+    }
+    
+    .text-info-box {
+      width: 300px;
+    }
+    
+      .text-info-box p, .unfold-question-thing, .unfold-question-thing-content-text {
+      font-size: 10px;
+    }
+    
+    .text-info-box h1 {
+      font-size: 15px;
+    }
+  }
