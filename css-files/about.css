@@ -61,3 +61,43 @@
       font-size: 25px;
     }
   }
+
+/*MAX WITH 1000PX*/
+@media (max-width: 1000px) {
+    #openning-hours-box {
+      margin-left: 60px;
+    }
+      
+      #openning-hours-box, #free-admision-box, #faq-questions-visit-us {
+      width: 250px;
+    }
+    
+    #text-boxes-visit-us p {
+      font-size: 15px;
+    }
+    
+    #text-boxes-visit-us h1 {
+      font-size: 20px;
+    }
+    
+    #visit-us-faq-button a {
+      font-size: 15px;
+    }
+    
+    #visit-us-faq-button {
+      width: 150px;
+      padding-bottom: 10px;
+    }
+    
+    .hero-text h1 {
+      font-size: 25px;
+    }
+    
+    .hero-text h2 {
+      font-size: 20px;
+    }
+    
+    .hero-text p {
+      font-size: 15px;
+    }
+  }
