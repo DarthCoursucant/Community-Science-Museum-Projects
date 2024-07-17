@@ -164,3 +164,20 @@
       margin-left: 30px;
     }
   }
+
+  /*MAX WITH 600PX*/
+@media (max-width: 600px) {
+    #openning-hours-box {
+      margin-left: 30px;
+    }
+      
+      #openning-hours-box, #free-admision-box, #faq-questions-visit-us {
+      width: 140px;
+    }
+    
+     #visit-us-faq-button {
+      width: 70px;
+      margin-left: 30px;
+       margin-top: 20px;
+    }
+  }
