@@ -22,16 +22,16 @@
 
 /*MAX WITH 1300PX*/
 @media (max-width: 1300px) {
-    .hero-image-donation {
+    .hero-image-donation, .hero-image-form {
       width: 1000px;
       margin-left: 120px;
       margin-bottom: 70px;
     }
   }
-  
-  /*MAX WITH 1150PX*/
+
+/*MAX WITH 1150PX*/
   @media (max-width: 1150px) {
-    .hero-image-donation {
+    .hero-image-donation, .hero-image-form {
       width: 900px;
       margin-left: 120px;
       margin-bottom: 70px;
@@ -41,29 +41,33 @@
       font-size: 30px;
     }
     
+    #hero-text h2 {
+      font-size: 25px;
+    }
+    
     #hero-text p {
       font-size: 20px;
     }
   }
-  
-  /*MAX WITH 1050PX*/
+
+/*MAX WITH 1050PX*/
   @media (max-width: 1050px) {
-    .hero-image-donation {
+    .hero-image-donation, .hero-image-form {
       margin-left: 50px;
     }
   }
-  
-  /*MAX WITH 970PX*/
+
+/*MAX WITH 970PX*/
   @media (max-width: 970px) {
-    .hero-image-donation {
+    .hero-image-donation, .hero-image-form {
       width: 700px;
       margin-left: 130px;
     }
   }
-  
-  /*MAX WITH 850PX*/
+
+/*MAX WITH 850PX*/
   @media (max-width: 850px) {
-    .hero-image-donation {
+    .hero-image-donation, .hero-image-form {
       width: 600px;
       margin-left: 130px;
     }
@@ -72,21 +76,25 @@
       font-size: 25px;
     }
     
+    #hero-text h2 {
+      font-size: 20px;
+    }
+    
     #hero-text p {
       font-size: 15px;
     }
   }
 
-  /*MAX WITH 750PX*/
+/*MAX WITH 750PX*/
 @media (max-width: 750px) {
-    .hero-image-donation {
+    .hero-image-donation, .hero-image-form {
         margin-left: 80px;
       }
   }
 
-  /*MAX WITH 700PX*/
+/*MAX WITH 700PX*/
 @media (max-width: 700px) {
-    .hero-image-donation {
+    .hero-image-donation, .hero-image-form {
         width: 500px;
         margin-left: 100px;
       }
@@ -94,15 +102,19 @@
      #hero-text h1 {
         font-size: 20px;
       }
+  
+  #hero-text h2 {
+    font-size: 15px;
+  }
       
       #hero-text p {
         font-size: 12px;
       }
   }
 
-  /*MAX WITH 630PX*/
+/*MAX WITH 630PX*/
 @media (max-width: 630px) {
-    .hero-image-donation {
+    .hero-image-donation, .hero-image-form {
         width: 450px;
         margin-left: 70px;
       }
@@ -110,7 +122,7 @@
   
   /*MAX WITH 550PX*/
   @media (max-width: 550px) {
-    .hero-image-donation {
+    .hero-image-donation, .hero-image-form {
         margin-left: 40px;
       }
   }
