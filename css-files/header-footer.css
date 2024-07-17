@@ -393,6 +393,29 @@ main.page-body {
   }
 }
 
+/*MAX WITH 1000PX*/
+@media (max-width: 1000px) {
+  #footer-option-three {
+    margin-left: 0px;
+  }
+  
+  #footer-option-three h1 {
+    margin-left: 89px;
+  }
+  
+  #footer-option-three h2 {
+    margin-left: 50px;
+  }
+  
+  #footer-option-four a {
+    font-size: 12px;
+  }
+  
+  #footer-option-four h1 {
+    margin-left: 30px;
+  }
+}
+
 /*MAX WITH 850PX*/
 @media (max-width: 850px) {
   .flex-menu {
