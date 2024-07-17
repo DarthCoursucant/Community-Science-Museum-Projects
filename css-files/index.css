@@ -112,17 +112,13 @@
       height: 300px;
     }
     
-    .specifc-file-text {
+    .specifc-file-text, .specifc-file-text-one {
       padding: 0px 30px 0px 30px;
     }
     
     #specific-file-info p {
       font-size: 15px;
     }
-    
-    .specifc-file-option-one, .specific-file-option-nine, .specific-file-option-eleven {
-        margin-left: 30px;
-      }
   }
 
   /*MAX WITH 1150PX*/
@@ -135,12 +131,8 @@
         margin-left: -200px;
       }
     
-    .specifc-file-option-one, .specific-file-option-nine, .specific-file-option-eleven {
+    .specifc-file-option-one, .specific-file-option-nine, .specific-file-option-eleven, .specifc-file-option-two, .specific-file-option-twelve, .specifc-file-option-eight  {
         margin-left: 75px;
-      }
-
-      .specifc-file-option-two, .specific-file-option-twelve, .specifc-file-option-eight {
-        margin-left: 100px;
       }
     
      #specifc-file-image img, .specifc-file-text, .specifc-file-text-one {
@@ -148,7 +140,7 @@
         height: 250px;
       }
     
-    #specific-file-info p, #specifc-file-text-one p {
+    #specific-file-info p {
         font-size: 13px;
       }
     
