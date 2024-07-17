@@ -182,3 +182,39 @@ label {
     margin-left: 250px;
   }
 }
+
+/*MAX WITH 850PX*/
+@media (max-width: 850px) {
+  .contactform {
+    width: 600px;
+  }
+  
+  .contactform:hover {
+    width: 650px;
+  }
+  
+  label {
+    width: 200px;
+    font-size: 20px;
+  }
+  
+  #first-name:hover, #last-name:hover, #phone-number:hover, #email-filed:hover, #question-filed:hover {
+    width: 350px;
+  }
+
+    
+   input, textarea {
+  width: 300px;
+  box-sizing: border-box;
+  outline: none;
+  background-color: #ffffff;
+}
+  
+  .formbutton {
+    margin-left: 150px;
+  }
+  
+  #option-one-contact a {
+    font-size: 12px;
+  }
+}
