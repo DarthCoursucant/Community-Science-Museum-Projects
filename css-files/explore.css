@@ -144,3 +144,15 @@
       margin-left: -30px;
     }
   }
+
+  /*MAX WITH 750PX*/
+@media (max-width: 750px) {
+    .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
+      width: 500px;
+      margin-left: 10px;
+    }
+    
+    .explore-text-one p, .explore-text p {
+      width: 400px;
+    }
+  }
