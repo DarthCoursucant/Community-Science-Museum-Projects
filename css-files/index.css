@@ -175,3 +175,24 @@
         margin-left: 10px;
       }
   }
+
+  /*MAX WITH 900PX*/
+  @media (max-width: 900px) {
+    .hero-image-button {
+      margin-left: 250px;
+    }
+    
+    .header-of-specific-page h1 {
+      font-size: 30px;
+      margin-left: 450px;
+    }
+    
+    #specific-file-info p {
+        font-size: 12px;
+      }
+    
+    #specifc-file-header h1 {
+      font-size: 20px;
+    }
+    
+  }
