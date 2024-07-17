@@ -206,3 +206,32 @@
       font-size: 15px;
     }
   }
+
+  /*MAX WITH 950PX*/
+@media (max-width: 950px) {
+    .parnterships-overview, .parnterships-overview-last {
+      display: none;
+    }
+    
+    .phone-thing-only {
+      display: block;
+      margin-left: 250px;
+      width: 450px;
+    }
+    
+    .phone-thing-only p {
+      font-size: 20px;
+    }
+    
+    .partnerships-info-page {
+      width: 700px;
+    }
+    
+    .text-partnerships h1 {
+      font-size: 25px;
+    }
+    
+    .text-partnerships p {
+      font-size: 15px;
+    }
+  }
