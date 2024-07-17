@@ -70,3 +70,61 @@
 #visit-us-text h1:hover, #visit-us-text p:hover {
     color: red;
 }
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+    .visit-us-box-one {
+      width: 1150px;
+      margin-left: 30px;
+    }
+  }
+  
+  /*MAX WITH 1200PX*/
+  @media (max-width: 1200px) {
+    .visit-us-map-image {
+      display: none;
+    }
+    
+    .visit-us-box-one {
+      width: 450px;
+      margin-left: 400px;
+    }
+  }
+  
+  /*MAX WITH 900PX*/
+  @media (max-width: 900px) {
+    .visit-us-box-one {
+      margin-left: 200px;
+    }
+  }
+  
+  /*MAX WITH 700PX*/
+  @media (max-width: 700px) {
+    .visit-us-box-one {
+      margin-left: 130px;
+    }
+  }
+  
+  /*MAX WITH 610PX*/
+  @media (max-width: 610px) {
+    .visit-us-box-one {
+      margin-left: 80px;
+      width: 400px;
+    }
+    
+    #visit-us-text h1 {
+      font-size: 20px;
+      margin-left: 15px;
+    }
+    
+    #visit-us-text p {
+      font-size: 15px;
+    }
+  }
+  
+  /*MAX WITH 550PX*/
+  @media (max-width: 550px) {
+    .visit-us-box-one {
+      margin-left: 50px;
+    }
+  }
