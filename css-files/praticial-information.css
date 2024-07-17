@@ -125,3 +125,18 @@
       font-size: 15px;
     }
   }
+
+  /*MAX WITH 570PX*/
+@media (max-width: 570px) {
+    .text-info-box {
+      margin-left: -20px;
+    }
+  }
+  
+  /*MAX WITH 550PX*/
+  @media (max-width: 550px) {
+    .image-info-box img {
+      width: 250px;
+      height: 100px;
+    }
+  }
