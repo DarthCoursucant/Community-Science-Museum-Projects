@@ -112,3 +112,102 @@
         margin-left: 10px;
       }
   }
+
+/*MAX WITH 900PX*/
+@media (max-width: 900px) {
+    .header-of-specific-page h1 {
+        font-size: 30px;
+        margin-left: 450px;
+      }
+      
+      #specific-file-info p {
+          font-size: 12px;
+        }
+      
+      #specifc-file-header h1 {
+        font-size: 20px;
+      }
+      
+    }
+  
+  /*MAX WITH 850PX*/
+  @media (max-width: 850px) {
+      .specifc-file-text, .specifc-file-text-one {
+          padding: 0px 0px 0px 0px;
+      }
+              
+      #specifc-file-image img, .specifc-file-text, .specifc-file-text-one {
+          width: 400px;
+          height: 250px;
+      }
+              
+      .header-of-specific-page {
+          margin-left: -350px;
+      }
+    
+    #specifc-file-header h1 {
+        font-size: 15px;
+      }
+    
+    #specific-file-info p {
+        font-size: 10px;
+      }
+  }
+  
+  /*MAX WITH 750PX*/
+  @media (max-width: 750px) {
+      #specific-file-info p {
+          font-size: 10px;
+      }
+  }
+  
+  /*MAX WITH 700PX*/
+   @media (max-width: 700px) {
+      #specifc-file-image img, .specifc-file-text, .specifc-file-text-one {
+          width: 300px;
+          height: 200px;
+      }
+      
+      .specifc-file-text, .specifc-file-text-one {
+        padding: 0px 0px 0px 0px;
+      }
+      
+       #specifc-file-header h1 {
+        font-size: 15px;
+      }
+      
+      #specific-file-info p {
+          font-size: 9px;
+        }
+      
+      .header-of-specific-page h1 {
+        font-size: 25px;
+        margin-left: 430px;
+      }
+    }
+  
+  /*MAX WITH 600PX*/
+  @media (max-width: 600px) {
+      .header-of-specific-page {
+          margin-left: -390px;
+      }
+    
+    #specific-file-info p {
+          font-size: 8px;
+        }
+    
+    #specifc-file-header h1 {
+        font-size: 12px;
+      }
+  }
+  
+  /*MAX WITH 550PX*/
+  @media (max-width: 550px) {
+      .header-of-specific-page h1 {
+        font-size: 20px;
+      }
+      
+      .header-of-specific-page {
+        margin-left: -380px;
+      }
+    }
