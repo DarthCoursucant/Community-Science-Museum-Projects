@@ -121,3 +121,41 @@ textarea:hover {
     background-color: #2E7702;
     box-shadow: 5px 5px 10px 5px #50CE03;
 }
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+    .donation-form {
+      width: 1100px;
+      margin-left: 50px;
+    }
+    
+    .support-us-option, .volunteer-option, .interships-option {
+      width: 1000px;
+      margin-left: 100px;
+    }
+  }
+  
+  /*MAX WITH 1265PX*/
+  @media (max-width: 1265px) {
+    .donation-form {
+      width: 1000px;
+      margin-left: 80px;
+    }
+    
+    #amount-one {
+      margin-left: 120px;
+    }
+    
+    #whole-custome-amount {
+      margin-left: 150px;
+    }
+    
+    .support-button-form {
+      margin-left: 220px;
+    }
+    
+    .support-us-option, .volunteer-option, .interships-option {
+      width: 900px;
+      margin-left: 150px;
+    }
+  }
