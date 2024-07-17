@@ -19,3 +19,60 @@
 .hero-image-donation:hover, .hero-image-form:hover {
     box-shadow: 5px 5px 10px 10px #818181;
 }
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+    .hero-image-donation {
+      width: 1000px;
+      margin-left: 120px;
+      margin-bottom: 70px;
+    }
+  }
+  
+  /*MAX WITH 1150PX*/
+  @media (max-width: 1150px) {
+    .hero-image-donation {
+      width: 900px;
+      margin-left: 120px;
+      margin-bottom: 70px;
+    }
+    
+    #hero-text h1 {
+      font-size: 30px;
+    }
+    
+    #hero-text p {
+      font-size: 20px;
+    }
+  }
+  
+  /*MAX WITH 1050PX*/
+  @media (max-width: 1050px) {
+    .hero-image-donation {
+      margin-left: 50px;
+    }
+  }
+  
+  /*MAX WITH 970PX*/
+  @media (max-width: 970px) {
+    .hero-image-donation {
+      width: 700px;
+      margin-left: 130px;
+    }
+  }
+  
+  /*MAX WITH 850PX*/
+  @media (max-width: 850px) {
+    .hero-image-donation {
+      width: 600px;
+      margin-left: 130px;
+    }
+    
+    #hero-text h1 {
+      font-size: 25px;
+    }
+    
+    #hero-text p {
+      font-size: 15px;
+    }
+  }
