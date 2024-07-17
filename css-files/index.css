@@ -219,3 +219,10 @@
       margin-left: 200px;
     }
 }
+
+/*MAX WITH 750PX*/
+@media (max-width: 750px) {
+    #specific-file-info p {
+        font-size: 10px;
+    }
+}
