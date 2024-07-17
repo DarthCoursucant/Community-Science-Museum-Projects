@@ -124,3 +124,31 @@
       margin-left: 80px;
     }
   }
+
+  /*MAX WITH 1150PX*/
+@media (max-width: 1150px) {
+    .hero-image-button {
+        margin-left: 300px;
+      }
+    
+    .header-of-specific-page {
+        margin-left: -200px;
+      }
+    
+    .specifc-file-option-one {
+      margin-left: 55px;
+    }
+    
+     #specifc-file-image img, .specifc-file-text, .specifc-file-text-one {
+        width: 450px;
+        height: 250px;
+      }
+    
+    #specific-file-info p {
+        font-size: 13px;
+      }
+    
+    #specifc-file-header h1 {
+      font-size: 22px;
+    }
+  }
