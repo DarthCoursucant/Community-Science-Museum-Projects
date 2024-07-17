@@ -275,3 +275,115 @@ textarea:hover {
       width: 350px;
     }
   }
+
+  /*MAX WITH 800PX*/
+@media (max-width: 800px) {
+    .donation-form {
+            width: 550px;
+            margin-left: 70px;
+          }
+    
+    #amount-five {
+      margin-left: 20px;
+      margin-top: 10px;
+    }
+    
+     textarea {
+        width: 200px;
+       margin-left: 10px;
+      }
+    
+    .support-button-form {
+      margin-left: 180px;
+    }
+    
+    .support-us-option, .volunteer-option, .interships-option {
+        width: 450px;
+      height: 380px;
+        margin-left: 130px;
+      }
+    
+    .support-image {
+      display: none;
+    }
+    
+    .support-button a {
+        font-size: 10px;
+      }
+    
+    .support-button {
+      width: 280px;
+      margin-left: 100px;
+    }
+  }
+
+  /*MAX WITH 800PX*/
+@media (max-width: 800px) {
+    .donation-form {
+            width: 550px;
+            margin-left: 70px;
+          }
+    
+    #amount-five {
+      margin-left: 20px;
+      margin-top: 10px;
+    }
+    
+     textarea {
+        width: 200px;
+       margin-left: 10px;
+      }
+    
+    .support-button-form {
+      margin-left: 180px;
+    }
+    
+    .support-us-option, .volunteer-option, .interships-option {
+        width: 450px;
+      height: 380px;
+        margin-left: 130px;
+      }
+    
+    .support-image {
+      display: none;
+    }
+    
+    .support-button a {
+        font-size: 10px;
+      }
+    
+    .support-button {
+      width: 280px;
+      margin-left: 100px;
+    }
+  }
+  
+  /*MAX WITH 640PX*/
+    @media (max-width: 640px) {
+      .donation-form {
+          width: 450px;
+          margin-left: 80px;
+       }
+      
+      #amount-four {
+        margin-left: 29px;
+      }
+      
+      textarea {
+          width: 150px;
+         margin-left: 10px;
+      }
+        
+        .support-button-form {
+        margin-left: 100px;
+      }
+      
+      .support-us-option, .volunteer-option, .interships-option {
+          width: 400px;
+          margin-left: 110px;
+        }
+      
+      .support-button {
+        margin-left: 50px;
+      }
+  }
