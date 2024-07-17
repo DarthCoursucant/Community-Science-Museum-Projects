@@ -85,3 +85,23 @@
       font-size: 15px;
     }
   }
+
+  /*MAX WITH 800PX*/
+@media (max-width: 800px) {
+    .image-info-box img {
+      width: 350px;
+      height: 200px;
+    }
+    
+    .image-info-box {
+      margin-top: 80px;
+    }
+    
+    .text-info-box h1 {
+      font-size: 20px;
+    }
+    
+    .text-info-box p {
+      font-size: 15px;
+    }
+  }
