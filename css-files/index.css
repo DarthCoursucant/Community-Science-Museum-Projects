@@ -92,3 +92,35 @@
 .specifc-file-text-one:hover {
     background-color: #fac898;
 }
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+    .hero-image-image {
+      width: 1270px;
+    }
+      
+    .hero-image-button {
+      margin-left: 370px;
+    }
+    
+    .header-of-specific-page {
+      margin-left: -150px;
+    }
+    
+    #specifc-file-image img, .specifc-file-text, .specifc-file-text-one {
+      width: 550px;
+      height: 300px;
+    }
+    
+    .specifc-file-text {
+      padding: 0px 30px 0px 30px;
+    }
+    
+    #specific-file-info p {
+      font-size: 15px;
+    }
+    
+    .specifc-file-option-two {
+      margin-left: 80px;
+    }
+  }
