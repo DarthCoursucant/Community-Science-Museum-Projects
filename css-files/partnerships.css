@@ -235,3 +235,14 @@
       font-size: 15px;
     }
   }
+
+    /*MAX WITH 850PX*/
+@media (max-width: 850px) {
+    .partnerships-info-page {
+      margin-left: 70px;
+    }
+    
+    .phone-thing-only {
+      margin-left: 200px;
+    }
+  }
