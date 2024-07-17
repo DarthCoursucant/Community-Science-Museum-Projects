@@ -571,6 +571,26 @@ main.page-body {
   .flex-menu {
     margin-left: 300px;
   }
+
+  #footer-option-one {
+    margin-left: -10px;
+  }
+  
+  #footer-option-two {
+    margin-left: -15px;
+  }
+  
+  #footer-option-two h1 {
+    margin-left: 10px;
+  }
+  
+  #footer-option-three h1 {
+    margin-left: 50px;
+  }
+  
+  #footer-option-three h2 {
+    margin-left: 20px;
+  }
 }
 
    /*MAX WITH 550PX*/
