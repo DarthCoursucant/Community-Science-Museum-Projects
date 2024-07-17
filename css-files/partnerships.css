@@ -246,3 +246,69 @@
       margin-left: 200px;
     }
   }
+
+/*MAX WITH 800PX*/
+@media (max-width: 800px) {
+    .partnerships-info-page {
+      width: 600px;
+      margin-left: 100px;
+    }
+    
+    .phone-thing-only {
+      margin-left: 160px;
+    }
+  }
+
+   /*MAX WITH 720PX*/
+@media (max-width: 720px) {
+    .partnerships-info-page {
+      width: 500px;
+      margin-left: 100px;
+    }
+    
+    .text-partnerships h1 {
+        font-size: 20px;
+      }
+      
+    .text-partnerships p {
+        font-size: 10px;
+      }
+    
+    .phone-thing-only p {
+      font-size: 15px;
+    }
+    
+    .phone-thing-only {
+      margin-left: 150px;
+      width: 400px;
+    }
+  }
+
+   /*MAX WITH 630PX*/
+@media (max-width: 630px) {
+    .partnerships-info-page {
+      width: 400px;
+      margin-left: 100px;
+    }
+    
+    .phone-thing-only {
+      margin-left: 150px;
+      width: 300px;
+    }
+    
+    .phone-thing-only h1, .phone-thing-only p {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+
+/*MAX WITH 550PX*/
+@media (max-width: 550px) {
+    .partnerships-info-page {
+      margin-left: 60px;
+    }
+    
+    .phone-thing-only {
+      margin-left: 110px;
+    }
+  }
