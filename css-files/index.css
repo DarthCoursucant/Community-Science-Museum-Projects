@@ -196,3 +196,19 @@
     }
     
   }
+
+/*MAX WITH 850PX*/
+@media (max-width: 850px) {
+    .specifc-file-text, .specifc-file-text-one {
+        padding: 0px 10px 0px 10px;
+    }
+            
+    #specifc-file-image img, .specifc-file-text, .specifc-file-text-one {
+        width: 400px;
+        height: 250px;
+    }
+            
+    .header-of-specific-page {
+        margin-left: -350px;
+    }
+}
