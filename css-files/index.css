@@ -120,9 +120,9 @@
       font-size: 15px;
     }
     
-    .specifc-file-option-two {
-      margin-left: 80px;
-    }
+    .specifc-file-option-one, .specific-file-option-nine, .specific-file-option-eleven {
+        margin-left: 30px;
+      }
   }
 
   /*MAX WITH 1150PX*/
@@ -135,16 +135,20 @@
         margin-left: -200px;
       }
     
-    .specifc-file-option-one {
-      margin-left: 55px;
-    }
+    .specifc-file-option-one, .specific-file-option-nine, .specific-file-option-eleven {
+        margin-left: 75px;
+      }
+
+      .specifc-file-option-two, .specific-file-option-twelve, .specifc-file-option-eight {
+        margin-left: 100px;
+      }
     
      #specifc-file-image img, .specifc-file-text, .specifc-file-text-one {
         width: 450px;
         height: 250px;
       }
     
-    #specific-file-info p {
+    #specific-file-info p, #specifc-file-text-one p {
         font-size: 13px;
       }
     
