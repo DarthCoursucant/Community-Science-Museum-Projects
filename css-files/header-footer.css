@@ -598,6 +598,22 @@ main.page-body {
   .flex-menu {
     margin-left: 200px;
   }
+
+  #footer-option-one {
+    display: none;
+  }
+  
+  #footer-option-two h1 {
+    margin-left: 25px;
+  }
+  
+  #footer-option-three h1 {
+    margin-left: 70px;
+  }
+  
+  #footer-option-three h2 {
+    margin-left: 40px;
+  }
 }
 
    /*MAX WITH 450PX*/
