@@ -84,3 +84,44 @@
     background-color: #826EB0;
     box-shadow: 5px 5px 10px 15px #5D4B86;
 }
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+    .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
+      width: 1100px;
+      margin-left: 10px;
+    }
+    
+    .explore-image img, .explore-image-one img, .explore-image-two img {
+      width: 140px;
+      height: 200px;
+  }
+    
+    .explore-image {
+      margin-top: 150px;
+    }
+  }
+
+  /*MAX WITH 1150PX*/
+@media (max-width: 1150px) {
+    .for-kids-section-explore-page, .for-teachers-section-explore-page, .for-researchers-section-explore-page {
+      width: 900px;
+      margin-left: 10px;
+    }
+    
+    .explore-text h1, .explore-text-one h1 {
+      font-size: 30px;
+    }
+    
+    .explore-text p, .explore-text-one p {
+      font-size: 15px;
+    }
+    
+    .explore-text-one p, .explore-text p {
+      width: 600px;
+    }
+    
+    .explore-image-one {
+      margin-left: 50px;
+    }
+  }
